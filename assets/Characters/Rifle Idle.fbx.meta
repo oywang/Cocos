@@ -1,0 +1,100 @@
+{
+  "ver": "2.3.12",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "13df9823-3aa6-4062-9d55-73ede5aaf45a",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "18d6f": {
+      "importer": "gltf-animation",
+      "uuid": "13df9823-3aa6-4062-9d55-73ede5aaf45a@18d6f",
+      "displayName": "",
+      "id": "18d6f",
+      "name": "mixamo.com.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 1,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 8.566666603088379
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "82d07": {
+      "importer": "gltf-scene",
+      "uuid": "13df9823-3aa6-4062-9d55-73ede5aaf45a@82d07",
+      "displayName": "",
+      "id": "82d07",
+      "name": "Rifle Idle.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "animationImportSettings": [
+      {
+        "name": "mixamo.com",
+        "duration": 8.566666603088379,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "mixamo.com",
+            "from": 0,
+            "to": 8.566666603088379,
+            "wrapMode": 1,
+            "previousId": "18d6f"
+          }
+        ]
+      }
+    ],
+    "redirect": "13df9823-3aa6-4062-9d55-73ede5aaf45a@82d07",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "13df9823-3aa6-4062-9d55-73ede5aaf45a@82d07"
+      ]
+    }
+  }
+}

@@ -1,0 +1,1684 @@
+2024-5-9 09:51:25-log: Cannot access game frame or container.
+2024-5-9 09:51:25-debug: asset-db:require-engine-code (1765ms)
+2024-5-9 09:51:26-log: Cocos Creator v3.8.1
+2024-5-9 09:51:26-debug: [Assets Memory track]: asset-db-plugin-register: programming start:93.29MB, end 96.62MB, increase: 3.33MB
+2024-5-9 09:51:26-debug: [Assets Memory track]: asset-db-plugin-enable: project start:96.84MB, end 100.16MB, increase: 3.32MB
+2024-5-9 09:51:26-debug: [Assets Memory track]: asset-db:worker-init: initEngine start:22.40MB, end 92.67MB, increase: 70.27MB
+2024-5-9 09:51:26-debug: [Assets Memory track]: asset-db-plugin-register: engine-extends start:96.67MB, end 100.15MB, increase: 3.49MB
+2024-5-9 09:51:26-debug: [Assets Memory track]: asset-db:worker-init: initPlugin start:92.68MB, end 100.16MB, increase: 7.49MB
+2024-5-9 09:51:26-debug: asset-db:worker-init: initPlugin (321ms)
+2024-5-9 09:51:26-debug: [Assets Memory track]: asset-db:worker-init start:22.39MB, end 94.95MB, increase: 72.56MB
+2024-5-9 09:51:26-debug: Run asset db hook engine-extends:beforePreStart ...
+2024-5-9 09:51:26-debug: Run asset db hook programming:beforePreStart success!
+2024-5-9 09:51:26-debug: Run asset db hook engine-extends:beforePreStart success!
+2024-5-9 09:51:26-debug: Run asset db hook programming:beforePreStart ...
+2024-5-9 09:51:27-debug: asset-db:worker-init (3756ms)
+2024-5-9 09:51:27-debug: asset-db-hook-programming-beforePreStart (994ms)
+2024-5-9 09:51:27-debug: asset-db-hook-engine-extends-beforePreStart (994ms)
+2024-5-9 09:51:27-debug: Preimport db internal success
+2024-5-9 09:51:27-debug: Run asset db hook programming:afterPreStart ...
+2024-5-9 09:51:27-debug: Preimport db assets success
+2024-5-9 09:51:29-debug: run package(builder) handler(enable) start
+2024-5-9 09:51:36-debug: [Assets Memory track]: asset-db-plugin-enable: builder start:117.37MB, end 337.98MB, increase: 220.60MB
+2024-5-9 09:51:36-debug: run package(builder) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(shortcuts) handler(enable) start
+2024-5-9 09:51:36-debug: run package(animation-graph) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(about) handler(enable) start
+2024-5-9 09:51:36-debug: run package(about) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(animation-graph) handler(enable) start
+2024-5-9 09:51:36-debug: run package(assets) handler(enable) start
+2024-5-9 09:51:36-debug: run package(assets) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(shortcuts) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(crash-reporter) handler(enable) start
+2024-5-9 09:51:36-debug: run package(console) handler(enable) start
+2024-5-9 09:51:36-debug: run package(console) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(extension) handler(enable) start
+2024-5-9 09:51:36-debug: run package(extension) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(crash-reporter) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(hierarchy) handler(enable) start
+2024-5-9 09:51:36-debug: run package(hierarchy) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(inspector) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(inspector) handler(enable) start
+2024-5-9 09:51:36-debug: run package(light-probe) handler(enable) start
+2024-5-9 09:51:36-debug: run package(light-probe) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(lightmap) handler(enable) start
+2024-5-9 09:51:36-debug: run package(node-library) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(lightmap) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(node-library) handler(enable) start
+2024-5-9 09:51:36-debug: run package(package-asset) handler(enable) start
+2024-5-9 09:51:36-debug: run package(package-asset) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(process) handler(enable) start
+2024-5-9 09:51:36-debug: run package(process) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(reference-image) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(reflection-probe) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(engine-extends) handler(enable) start
+2024-5-9 09:51:36-debug: run package(reflection-probe) handler(enable) start
+2024-5-9 09:51:36-debug: run package(adsense-h5g-plugin) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(reference-image) handler(enable) start
+2024-5-9 09:51:36-debug: run package(alipay-mini-game) handler(enable) start
+2024-5-9 09:51:36-debug: run package(engine-extends) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(alipay-mini-game) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(android) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(bytedance-mini-game) handler(enable) start
+2024-5-9 09:51:36-debug: run package(bytedance-mini-game) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(certificate) handler(enable) start
+2024-5-9 09:51:36-debug: run package(certificate) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(android) handler(enable) start
+2024-5-9 09:51:36-debug: run package(channel-upload-tools) handler(enable) start
+2024-5-9 09:51:36-debug: run package(channel-upload-tools) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(fb-instant-games) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(adsense-h5g-plugin) handler(enable) start
+2024-5-9 09:51:36-debug: run package(fb-instant-games) handler(enable) start
+2024-5-9 09:51:36-debug: run package(huawei-agc) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(huawei-agc) handler(enable) start
+2024-5-9 09:51:36-debug: run package(huawei-quick-game) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(ios) handler(enable) start
+2024-5-9 09:51:36-debug: run package(ios) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(huawei-quick-game) handler(enable) start
+2024-5-9 09:51:36-debug: run package(linux) handler(enable) start
+2024-5-9 09:51:36-debug: run package(mac) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(linux) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(native) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(mac) handler(enable) start
+2024-5-9 09:51:36-debug: run package(ohos) handler(enable) start
+2024-5-9 09:51:36-debug: run package(ohos) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(native) handler(enable) start
+2024-5-9 09:51:36-debug: run package(openharmony) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(oppo-mini-game) handler(enable) start
+2024-5-9 09:51:36-debug: run package(runtime-dev-tools) handler(enable) start
+2024-5-9 09:51:36-debug: run package(oppo-mini-game) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(openharmony) handler(enable) start
+2024-5-9 09:51:36-debug: run package(runtime-dev-tools) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(taobao-creative-app) handler(enable) start
+2024-5-9 09:51:36-debug: run package(taobao-mini-game) handler(enable) start
+2024-5-9 09:51:36-debug: run package(taobao-creative-app) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(web-desktop) handler(enable) start
+2024-5-9 09:51:36-debug: run package(vivo-mini-game) handler(enable) start
+2024-5-9 09:51:36-debug: run package(web-mobile) handler(enable) start
+2024-5-9 09:51:36-debug: run package(taobao-mini-game) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(web-desktop) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(vivo-mini-game) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(web-mobile) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(wechatgame) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(wechatprogram) handler(enable) start
+2024-5-9 09:51:36-debug: run package(wechatprogram) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(windows) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(windows) handler(enable) start
+2024-5-9 09:51:36-debug: run package(wechatgame) handler(enable) start
+2024-5-9 09:51:36-debug: run package(cocos-service) handler(enable) start
+2024-5-9 09:51:36-debug: run package(xiaomi-quick-game) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(im-plugin) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(xiaomi-quick-game) handler(enable) start
+2024-5-9 09:51:36-debug: run package(im-plugin) handler(enable) start
+2024-5-9 09:51:36-debug: run package(placeholder) handler(enable) success!
+2024-5-9 09:51:36-debug: run package(placeholder) handler(enable) start
+2024-5-9 09:51:36-debug: run package(cocos-service) handler(enable) success!
+2024-5-9 09:51:37-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-9 09:51:37-debug: Run asset db hook programming:afterPreStart success!
+2024-5-9 09:51:37-debug: Run asset db hook engine-extends:afterPreStart ...
+2024-5-9 09:51:37-debug: Run asset db hook engine-extends:afterPreStart success!
+2024-5-9 09:51:37-debug: [Assets Memory track]: asset-db:worker-init: preStart start:94.96MB, end 340.21MB, increase: 245.24MB
+2024-5-9 09:51:37-debug: Start up the 'internal' database...
+2024-5-9 09:51:37-debug: asset-db-hook-programming-afterPreStart (9514ms)
+2024-5-9 09:51:37-debug: asset-db-hook-engine-extends-afterPreStart (130ms)
+2024-5-9 09:51:37-debug: asset-db:worker-effect-data-processing (130ms)
+2024-5-9 09:51:37-debug: start asset-db(internal) with asset: 463
+2024-5-9 09:51:37-debug: [Assets Memory track]: asset-db:worker-startup-database[internal] start:113.92MB, end 338.22MB, increase: 224.30MB
+2024-5-9 09:51:37-debug: Start up the 'assets' database...
+2024-5-9 09:51:37-debug: asset-db:worker-startup-database[internal] (10018ms)
+2024-5-9 09:51:37-debug: start asset-db(assets) with asset: 32
+2024-5-9 09:51:37-debug: [Assets Memory track]: asset-db:worker-startup-database[assets] start:116.88MB, end 339.20MB, increase: 222.32MB
+2024-5-9 09:51:37-debug: asset-db:worker-startup-database[assets] (9739ms)
+2024-5-9 09:51:37-debug: asset-db:start-database (10811ms)
+2024-5-9 09:51:37-debug: asset-db:ready (17898ms)
+2024-5-9 09:51:38-debug: [Build Memory track]: builder:worker-init start:336.74MB, end 350.05MB, increase: 13.31MB
+2024-5-9 09:51:37-debug: init worker message success
+2024-5-9 09:51:38-debug: programming:execute-script (28ms)
+2024-5-9 09:51:38-debug: builder:worker-init (791ms)
+2024-5-9 09:51:39-debug: programming:execute-script (6ms)
+2024-5-9 09:53:52-debug: refresh db internal success
+2024-5-9 09:53:52-debug: refresh db assets success
+2024-5-9 09:53:52-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 09:53:52-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 09:53:52-debug: asset-db:refresh-all-database (137ms)
+2024-5-9 09:53:52-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 09:53:52-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 09:55:22-debug: refresh db internal success
+2024-5-9 09:55:22-debug: refresh db assets success
+2024-5-9 09:55:22-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 09:55:22-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 09:55:22-debug: asset-db:refresh-all-database (129ms)
+2024-5-9 09:55:22-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 09:55:22-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 09:55:32-debug: refresh db internal success
+2024-5-9 09:55:32-debug: refresh db assets success
+2024-5-9 09:55:32-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 09:55:32-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 09:55:32-debug: asset-db:worker-effect-data-processing (2ms)
+2024-5-9 09:55:32-debug: asset-db:refresh-all-database (136ms)
+2024-5-9 09:55:32-debug: asset-db-hook-engine-extends-afterRefresh (3ms)
+2024-5-9 09:55:38-debug: refresh db internal success
+2024-5-9 09:55:38-debug: refresh db assets success
+2024-5-9 09:55:38-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 09:55:38-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 09:55:38-debug: asset-db:refresh-all-database (123ms)
+2024-5-9 09:55:38-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 09:55:38-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 09:55:42-debug: refresh db internal success
+2024-5-9 09:55:42-debug: refresh db assets success
+2024-5-9 09:55:42-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 09:55:42-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 09:55:42-debug: asset-db:refresh-all-database (120ms)
+2024-5-9 09:55:42-debug: asset-db:worker-effect-data-processing (2ms)
+2024-5-9 09:55:42-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 09:55:44-debug: refresh db internal success
+2024-5-9 09:55:44-debug: refresh db assets success
+2024-5-9 09:55:44-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 09:55:44-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 09:55:44-debug: asset-db:refresh-all-database (119ms)
+2024-5-9 09:55:44-debug: asset-db:worker-effect-data-processing (2ms)
+2024-5-9 09:55:44-debug: asset-db-hook-engine-extends-afterRefresh (3ms)
+2024-5-9 09:55:48-debug: refresh db internal success
+2024-5-9 09:55:48-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 09:55:48-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 09:55:48-debug: refresh db assets success
+2024-5-9 09:55:48-debug: asset-db:refresh-all-database (121ms)
+2024-5-9 09:55:48-debug: asset-db:worker-effect-data-processing (2ms)
+2024-5-9 09:55:48-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 09:55:50-debug: programming:execute-script (14ms)
+2024-5-9 09:55:51-debug: Query all assets info in project
+2024-5-9 09:55:51-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-9 09:55:51-debug:   Number of all scenes: 6
+2024-5-9 09:55:51-debug:   Number of all scripts: 6
+2024-5-9 09:55:51-debug:   Number of other assets: 433
+2024-5-9 09:55:52-debug: reload all scripts.
+2024-5-9 09:55:52-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/base" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl" loaded.
+2024-5-9 09:55:52-debug: D:\Courses\Cocos\Cocos Projects\Test\temp\programming\packer-driver\targets\editor\chunks\93\93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js resolved to D:\Courses\Cocos\Cocos Projects\Test\temp\programming\packer-driver\targets\editor\chunks\93\93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js is not in module cache!
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-empty" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl2" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/animation" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/3d" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/skeletal-animation" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/2d" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/sorting" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle-2d" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-framework" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-2d-framework" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-2d-box2d-wasm" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/ui" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/intersection-2d" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/primitive" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/profiler" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/geometry-renderer" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/audio" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/video" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/xr" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/light-probe" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/terrain" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tween" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/webview" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tiled-map" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/dragon-bones" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/spine" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/custom-pipeline" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/base" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl2" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/3d" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-empty" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/animation" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/skeletal-animation" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/2d" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/sorting" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/ui" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-framework" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle-2d" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-2d-framework" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-2d-box2d-wasm" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/intersection-2d" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/profiler" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/primitive" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/geometry-renderer" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/video" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/audio" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/xr" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/light-probe" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/terrain" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/webview" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tween" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tiled-map" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/dragon-bones" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/spine" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-9 09:55:52-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-9 09:55:52-debug: [[Executor]] Module "cce:/internal/x/cc-fu/custom-pipeline" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-9 09:55:52-debug: D:\Courses\Cocos\Cocos Projects\Test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js resolved to D:\Courses\Cocos\Cocos Projects\Test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js is not in module cache!
+2024-5-9 09:55:52-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 09:55:52-debug: D:\Courses\Cocos\Cocos Projects\Test\temp\programming\packer-driver\targets\editor\chunks\b1\b125f9d2b5256259980950bcace2367b045770e5.js resolved to D:\Courses\Cocos\Cocos Projects\Test\temp\programming\packer-driver\targets\editor\chunks\b1\b125f9d2b5256259980950bcace2367b045770e5.js is not in module cache!
+2024-5-9 09:55:52-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-9 09:55:52-debug: [[Executor]] Module "pack:///chunks/b1/b125f9d2b5256259980950bcace2367b045770e5.js" loaded.
+2024-5-9 09:55:52-debug: D:\Courses\Cocos\Cocos Projects\Test\temp\programming\packer-driver\targets\editor\chunks\77\77a171dde9e840d4d817e7f6326d7cc01d47fada.js resolved to D:\Courses\Cocos\Cocos Projects\Test\temp\programming\packer-driver\targets\editor\chunks\77\77a171dde9e840d4d817e7f6326d7cc01d47fada.js is not in module cache!
+2024-5-9 09:55:52-debug: [[Executor]] Module "pack:///chunks/77/77a171dde9e840d4d817e7f6326d7cc01d47fada.js" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Register final
+2024-5-9 09:55:52-debug: D:\Courses\Cocos\Cocos Projects\Test\temp\programming\packer-driver\targets\editor\chunks\ea\ead9e33228c2fcb690c0cc9f702eef0807622046.js resolved to D:\Courses\Cocos\Cocos Projects\Test\temp\programming\packer-driver\targets\editor\chunks\ea\ead9e33228c2fcb690c0cc9f702eef0807622046.js is not in module cache!
+2024-5-9 09:55:52-debug: [[Executor]] Register test01
+2024-5-9 09:55:52-debug: [[Executor]] Module "pack:///chunks/ea/ead9e33228c2fcb690c0cc9f702eef0807622046.js" loaded.
+2024-5-9 09:55:52-debug: D:\Courses\Cocos\Cocos Projects\Test\temp\programming\packer-driver\targets\editor\chunks\d4\d40f1cbda380e30314acd87b1c33fedd2f0e825f.js resolved to D:\Courses\Cocos\Cocos Projects\Test\temp\programming\packer-driver\targets\editor\chunks\d4\d40f1cbda380e30314acd87b1c33fedd2f0e825f.js is not in module cache!
+2024-5-9 09:55:52-debug: [[Executor]] Register test02
+2024-5-9 09:55:52-debug: [[Executor]] Module "pack:///chunks/d4/d40f1cbda380e30314acd87b1c33fedd2f0e825f.js" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Register test03
+2024-5-9 09:55:52-debug: D:\Courses\Cocos\Cocos Projects\Test\temp\programming\packer-driver\targets\editor\chunks\0c\0c8a847e84c605d1566ecd4d85f683a4b4bf35db.js resolved to D:\Courses\Cocos\Cocos Projects\Test\temp\programming\packer-driver\targets\editor\chunks\0c\0c8a847e84c605d1566ecd4d85f683a4b4bf35db.js is not in module cache!
+2024-5-9 09:55:52-debug: [[Executor]] Module "pack:///chunks/0c/0c8a847e84c605d1566ecd4d85f683a4b4bf35db.js" loaded.
+2024-5-9 09:55:52-debug: D:\Courses\Cocos\Cocos Projects\Test\temp\programming\packer-driver\targets\editor\chunks\ec\ec51712dbe2bd3beba20a1306bd60cc6c4e2d51e.js resolved to D:\Courses\Cocos\Cocos Projects\Test\temp\programming\packer-driver\targets\editor\chunks\ec\ec51712dbe2bd3beba20a1306bd60cc6c4e2d51e.js is not in module cache!
+2024-5-9 09:55:52-debug: [[Executor]] Module "pack:///chunks/ec/ec51712dbe2bd3beba20a1306bd60cc6c4e2d51e.js" loaded.
+2024-5-9 09:55:52-debug: Incremental keys: 
+2024-5-9 09:55:52-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 09:55:52-debug: [[Executor]] Register HelloWorld
+2024-5-9 09:55:52-debug: // ---- build task Query asset bundle ----
+2024-5-9 09:55:52-debug: Query asset bundle start0%
+2024-5-9 09:55:52-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2024-5-9 09:55:52-debug: // ---- build task Query asset bundle ---- (35ms)
+2024-5-9 09:55:52-debug: [Build Memory track]: Query asset bundle start:287.18MB, end 287.51MB, increase: 330.50KB
+2024-5-9 09:55:52-debug: run build task Query asset bundle success in 35 ms √5%
+2024-5-9 09:55:52-debug: Query asset bundle start5%
+2024-5-9 09:55:52-debug: // ---- build task Query asset bundle ----
+2024-5-9 09:55:52-debug: // ---- build task Query asset bundle ---- (1ms)
+2024-5-9 09:55:52-debug: [Build Memory track]: Query asset bundle start:287.52MB, end 287.54MB, increase: 15.84KB
+2024-5-9 09:55:52-debug: run build task Query asset bundle success in 1 ms √10%
+2024-5-9 09:55:52-debug: Sort some build options to settings.json start10%
+2024-5-9 09:55:52-debug: // ---- build task Sort some build options to settings.json ----
+2024-5-9 09:55:52-debug: // ---- build task Sort some build options to settings.json ---- (2ms)
+2024-5-9 09:55:52-debug: run build task Sort some build options to settings.json success in 2 ms √12%
+2024-5-9 09:55:52-debug: [Build Memory track]: Sort some build options to settings.json start:287.55MB, end 287.57MB, increase: 19.27KB
+2024-5-9 09:55:52-debug: // ---- build task Fill script data to settings ----
+2024-5-9 09:55:52-debug: Fill script data to settings start12%
+2024-5-9 09:55:52-debug: // ---- build task Fill script data to settings ---- (1ms)
+2024-5-9 09:55:52-debug: run build task Fill script data to settings success in 1 ms √13%
+2024-5-9 09:55:52-debug: [Build Memory track]: Fill script data to settings start:287.59MB, end 287.60MB, increase: 16.92KB
+2024-5-9 09:55:52-debug: Sort some build options to settings.json start13%
+2024-5-9 09:55:52-debug: // ---- build task Sort some build options to settings.json ----
+2024-5-9 09:55:52-debug: // ---- build task Sort some build options to settings.json ---- (7ms)
+2024-5-9 09:55:52-debug: run build task Sort some build options to settings.json success in 7 ms √15%
+2024-5-9 09:55:52-debug: [Build Memory track]: Sort some build options to settings.json start:287.62MB, end 285.24MB, increase: -2436.22KB
+2024-5-9 09:57:16-debug: refresh db internal success
+2024-5-9 09:57:16-debug: %cImport%c: D:\Courses\Cocos\Cocos Projects\Test\assets\Missions\final\final.tsbackground: #aaff85; color: #000;color: #000;
+2024-5-9 09:57:16-debug: refresh db assets success
+2024-5-9 09:57:16-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 09:57:16-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 09:57:16-debug: asset-db:refresh-all-database (123ms)
+2024-5-9 09:57:16-debug: asset-db:worker-effect-data-processing (2ms)
+2024-5-9 09:57:16-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 09:57:46-debug: programming:execute-script (7ms)
+2024-5-9 09:57:47-debug: Query all assets info in project
+2024-5-9 09:57:47-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-9 09:57:47-debug:   Number of all scenes: 6
+2024-5-9 09:57:47-debug:   Number of all scripts: 6
+2024-5-9 09:57:47-debug:   Number of other assets: 433
+2024-5-9 09:57:47-debug: reload all scripts.
+2024-5-9 09:57:47-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-9 09:57:47-debug: Unregister DebugViewRuntimeControl
+2024-5-9 09:57:47-debug: Unregister test01
+2024-5-9 09:57:47-debug: Unregister test02
+2024-5-9 09:57:47-debug: Unregister final
+2024-5-9 09:57:47-debug: Unregister test03
+2024-5-9 09:57:47-debug: Unregister HelloWorld
+2024-5-9 09:57:47-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-9 09:57:47-debug: Invalidating 'pack:///chunks/b1/b125f9d2b5256259980950bcace2367b045770e5.js'
+2024-5-9 09:57:47-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-5-9 09:57:47-debug: Invalidating 'pack:///chunks/77/77a171dde9e840d4d817e7f6326d7cc01d47fada.js'
+2024-5-9 09:57:47-debug: Invalidating 'pack:///chunks/ea/ead9e33228c2fcb690c0cc9f702eef0807622046.js'
+2024-5-9 09:57:47-debug: Invalidating 'pack:///chunks/0c/0c8a847e84c605d1566ecd4d85f683a4b4bf35db.js'
+2024-5-9 09:57:47-debug: Invalidating 'pack:///chunks/d4/d40f1cbda380e30314acd87b1c33fedd2f0e825f.js'
+2024-5-9 09:57:47-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-9 09:57:47-debug: Invalidating 'pack:///chunks/ec/ec51712dbe2bd3beba20a1306bd60cc6c4e2d51e.js'
+2024-5-9 09:57:47-debug: D:\Courses\Cocos\Cocos Projects\Test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js resolved to D:\Courses\Cocos\Cocos Projects\Test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js is not in module cache!
+2024-5-9 09:57:47-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 09:57:47-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-9 09:57:47-debug: [[Executor]] Module "pack:///chunks/b1/b125f9d2b5256259980950bcace2367b045770e5.js" loaded.
+2024-5-9 09:57:47-debug: D:\Courses\Cocos\Cocos Projects\Test\temp\programming\packer-driver\targets\editor\chunks\77\77a171dde9e840d4d817e7f6326d7cc01d47fada.js resolved to D:\Courses\Cocos\Cocos Projects\Test\temp\programming\packer-driver\targets\editor\chunks\77\77a171dde9e840d4d817e7f6326d7cc01d47fada.js is not in module cache!
+2024-5-9 09:57:47-debug: [[Executor]] Register final
+2024-5-9 09:57:47-debug: [[Executor]] Register test01
+2024-5-9 09:57:47-debug: [[Executor]] Module "pack:///chunks/ea/ead9e33228c2fcb690c0cc9f702eef0807622046.js" loaded.
+2024-5-9 09:57:47-debug: [[Executor]] Module "pack:///chunks/77/77a171dde9e840d4d817e7f6326d7cc01d47fada.js" loaded.
+2024-5-9 09:57:47-debug: [[Executor]] Register test02
+2024-5-9 09:57:47-debug: [[Executor]] Module "pack:///chunks/d4/d40f1cbda380e30314acd87b1c33fedd2f0e825f.js" loaded.
+2024-5-9 09:57:47-debug: [[Executor]] Module "pack:///chunks/0c/0c8a847e84c605d1566ecd4d85f683a4b4bf35db.js" loaded.
+2024-5-9 09:57:47-debug: [[Executor]] Register test03
+2024-5-9 09:57:47-debug: [[Executor]] Module "pack:///chunks/ec/ec51712dbe2bd3beba20a1306bd60cc6c4e2d51e.js" loaded.
+2024-5-9 09:57:47-debug: [[Executor]] Register HelloWorld
+2024-5-9 09:57:47-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 09:57:47-debug: Query asset bundle start0%
+2024-5-9 09:57:47-debug: Incremental keys: 
+2024-5-9 09:57:47-debug: // ---- build task Query asset bundle ----
+2024-5-9 09:57:47-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2024-5-9 09:57:47-debug: // ---- build task Query asset bundle ---- (30ms)
+2024-5-9 09:57:47-debug: run build task Query asset bundle success in 30 ms √5%
+2024-5-9 09:57:47-debug: [Build Memory track]: Query asset bundle start:289.25MB, end 289.27MB, increase: 12.93KB
+2024-5-9 09:57:47-debug: Query asset bundle start5%
+2024-5-9 09:57:47-debug: // ---- build task Query asset bundle ----
+2024-5-9 09:57:47-debug: // ---- build task Query asset bundle ---- (1ms)
+2024-5-9 09:57:47-debug: run build task Query asset bundle success in 1 ms √10%
+2024-5-9 09:57:47-debug: [Build Memory track]: Query asset bundle start:289.28MB, end 289.30MB, increase: 16.29KB
+2024-5-9 09:57:47-debug: Sort some build options to settings.json start10%
+2024-5-9 09:57:47-debug: // ---- build task Sort some build options to settings.json ----
+2024-5-9 09:57:47-debug: // ---- build task Sort some build options to settings.json ---- (1ms)
+2024-5-9 09:57:47-debug: run build task Sort some build options to settings.json success in 1 ms √12%
+2024-5-9 09:57:47-debug: Fill script data to settings start12%
+2024-5-9 09:57:47-debug: // ---- build task Fill script data to settings ----
+2024-5-9 09:57:47-debug: [Build Memory track]: Sort some build options to settings.json start:289.31MB, end 289.33MB, increase: 19.21KB
+2024-5-9 09:57:47-debug: // ---- build task Fill script data to settings ---- (2ms)
+2024-5-9 09:57:47-debug: run build task Fill script data to settings success in 2 ms √13%
+2024-5-9 09:57:47-debug: [Build Memory track]: Fill script data to settings start:289.34MB, end 289.36MB, increase: 17.49KB
+2024-5-9 09:57:47-debug: Sort some build options to settings.json start13%
+2024-5-9 09:57:47-debug: // ---- build task Sort some build options to settings.json ----
+2024-5-9 09:57:47-debug: // ---- build task Sort some build options to settings.json ---- (5ms)
+2024-5-9 09:57:47-debug: run build task Sort some build options to settings.json success in 5 ms √15%
+2024-5-9 09:57:47-debug: [Build Memory track]: Sort some build options to settings.json start:289.38MB, end 289.72MB, increase: 354.31KB
+2024-5-9 09:58:07-debug: programming:execute-script (8ms)
+2024-5-9 09:58:08-debug: Query all assets info in project
+2024-5-9 09:58:08-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-9 09:58:08-debug:   Number of all scenes: 6
+2024-5-9 09:58:08-debug:   Number of other assets: 433
+2024-5-9 09:58:08-debug:   Number of all scripts: 6
+2024-5-9 09:58:08-debug: reload all scripts.
+2024-5-9 09:58:08-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-9 09:58:08-debug: Unregister DebugViewRuntimeControl
+2024-5-9 09:58:08-debug: Unregister test01
+2024-5-9 09:58:08-debug: Unregister test02
+2024-5-9 09:58:08-debug: Unregister test03
+2024-5-9 09:58:08-debug: Unregister HelloWorld
+2024-5-9 09:58:08-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-9 09:58:08-debug: Unregister final
+2024-5-9 09:58:08-debug: Invalidating 'pack:///chunks/b1/b125f9d2b5256259980950bcace2367b045770e5.js'
+2024-5-9 09:58:08-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-5-9 09:58:08-debug: Invalidating 'pack:///chunks/77/77a171dde9e840d4d817e7f6326d7cc01d47fada.js'
+2024-5-9 09:58:08-debug: Invalidating 'pack:///chunks/d4/d40f1cbda380e30314acd87b1c33fedd2f0e825f.js'
+2024-5-9 09:58:08-debug: Invalidating 'pack:///chunks/0c/0c8a847e84c605d1566ecd4d85f683a4b4bf35db.js'
+2024-5-9 09:58:08-debug: Invalidating 'pack:///chunks/ec/ec51712dbe2bd3beba20a1306bd60cc6c4e2d51e.js'
+2024-5-9 09:58:08-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-9 09:58:08-debug: Invalidating 'pack:///chunks/ea/ead9e33228c2fcb690c0cc9f702eef0807622046.js'
+2024-5-9 09:58:08-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 09:58:08-debug: [[Executor]] Module "pack:///chunks/b1/b125f9d2b5256259980950bcace2367b045770e5.js" loaded.
+2024-5-9 09:58:08-debug: [[Executor]] Register final
+2024-5-9 09:58:08-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-9 09:58:08-debug: [[Executor]] Module "pack:///chunks/77/77a171dde9e840d4d817e7f6326d7cc01d47fada.js" loaded.
+2024-5-9 09:58:08-debug: [[Executor]] Module "pack:///chunks/ea/ead9e33228c2fcb690c0cc9f702eef0807622046.js" loaded.
+2024-5-9 09:58:08-debug: [[Executor]] Register test01
+2024-5-9 09:58:08-debug: [[Executor]] Module "pack:///chunks/d4/d40f1cbda380e30314acd87b1c33fedd2f0e825f.js" loaded.
+2024-5-9 09:58:08-debug: [[Executor]] Register test02
+2024-5-9 09:58:08-debug: [[Executor]] Register test03
+2024-5-9 09:58:08-debug: [[Executor]] Module "pack:///chunks/0c/0c8a847e84c605d1566ecd4d85f683a4b4bf35db.js" loaded.
+2024-5-9 09:58:08-debug: [[Executor]] Module "pack:///chunks/ec/ec51712dbe2bd3beba20a1306bd60cc6c4e2d51e.js" loaded.
+2024-5-9 09:58:08-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 09:58:08-debug: Query asset bundle start0%
+2024-5-9 09:58:08-debug: [[Executor]] Register HelloWorld
+2024-5-9 09:58:08-debug: Incremental keys: 
+2024-5-9 09:58:08-debug: // ---- build task Query asset bundle ----
+2024-5-9 09:58:08-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2024-5-9 09:58:08-debug: // ---- build task Query asset bundle ---- (23ms)
+2024-5-9 09:58:08-debug: run build task Query asset bundle success in 23 ms √5%
+2024-5-9 09:58:08-debug: [Build Memory track]: Query asset bundle start:291.66MB, end 291.55MB, increase: -105.96KB
+2024-5-9 09:58:08-debug: Query asset bundle start5%
+2024-5-9 09:58:08-debug: // ---- build task Query asset bundle ----
+2024-5-9 09:58:08-debug: // ---- build task Query asset bundle ---- (1ms)
+2024-5-9 09:58:08-debug: run build task Query asset bundle success in 1 ms √10%
+2024-5-9 09:58:08-debug: [Build Memory track]: Query asset bundle start:291.57MB, end 291.58MB, increase: 15.82KB
+2024-5-9 09:58:08-debug: Sort some build options to settings.json start10%
+2024-5-9 09:58:08-debug: // ---- build task Sort some build options to settings.json ----
+2024-5-9 09:58:08-debug: // ---- build task Sort some build options to settings.json ---- (2ms)
+2024-5-9 09:58:08-debug: run build task Sort some build options to settings.json success in 2 ms √12%
+2024-5-9 09:58:08-debug: [Build Memory track]: Sort some build options to settings.json start:291.60MB, end 291.62MB, increase: 19.21KB
+2024-5-9 09:58:08-debug: // ---- build task Fill script data to settings ----
+2024-5-9 09:58:08-debug: Fill script data to settings start12%
+2024-5-9 09:58:08-debug: // ---- build task Fill script data to settings ---- (2ms)
+2024-5-9 09:58:08-debug: run build task Fill script data to settings success in 2 ms √13%
+2024-5-9 09:58:08-debug: [Build Memory track]: Fill script data to settings start:291.63MB, end 291.65MB, increase: 15.77KB
+2024-5-9 09:58:08-debug: Sort some build options to settings.json start13%
+2024-5-9 09:58:08-debug: // ---- build task Sort some build options to settings.json ----
+2024-5-9 09:58:08-debug: // ---- build task Sort some build options to settings.json ---- (4ms)
+2024-5-9 09:58:08-debug: [Build Memory track]: Sort some build options to settings.json start:291.66MB, end 291.79MB, increase: 127.65KB
+2024-5-9 09:58:08-debug: run build task Sort some build options to settings.json success in 4 ms √15%
+2024-5-9 09:58:23-debug: programming:execute-script (7ms)
+2024-5-9 09:58:24-debug: Query all assets info in project
+2024-5-9 09:58:24-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-9 09:58:24-debug:   Number of all scenes: 6
+2024-5-9 09:58:24-debug:   Number of all scripts: 6
+2024-5-9 09:58:24-debug:   Number of other assets: 433
+2024-5-9 09:58:24-debug: reload all scripts.
+2024-5-9 09:58:24-debug: Unregister DebugViewRuntimeControl
+2024-5-9 09:58:24-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-9 09:58:24-debug: Unregister test01
+2024-5-9 09:58:24-debug: Unregister test02
+2024-5-9 09:58:24-debug: Unregister final
+2024-5-9 09:58:24-debug: Unregister HelloWorld
+2024-5-9 09:58:24-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-9 09:58:24-debug: Unregister test03
+2024-5-9 09:58:24-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-5-9 09:58:24-debug: Invalidating 'pack:///chunks/b1/b125f9d2b5256259980950bcace2367b045770e5.js'
+2024-5-9 09:58:24-debug: Invalidating 'pack:///chunks/77/77a171dde9e840d4d817e7f6326d7cc01d47fada.js'
+2024-5-9 09:58:24-debug: Invalidating 'pack:///chunks/ea/ead9e33228c2fcb690c0cc9f702eef0807622046.js'
+2024-5-9 09:58:24-debug: Invalidating 'pack:///chunks/d4/d40f1cbda380e30314acd87b1c33fedd2f0e825f.js'
+2024-5-9 09:58:24-debug: Invalidating 'pack:///chunks/ec/ec51712dbe2bd3beba20a1306bd60cc6c4e2d51e.js'
+2024-5-9 09:58:24-debug: Invalidating 'pack:///chunks/0c/0c8a847e84c605d1566ecd4d85f683a4b4bf35db.js'
+2024-5-9 09:58:24-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-9 09:58:24-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-9 09:58:24-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 09:58:24-debug: [[Executor]] Module "pack:///chunks/b1/b125f9d2b5256259980950bcace2367b045770e5.js" loaded.
+2024-5-9 09:58:24-debug: [[Executor]] Register final
+2024-5-9 09:58:24-debug: [[Executor]] Register test01
+2024-5-9 09:58:24-debug: [[Executor]] Module "pack:///chunks/77/77a171dde9e840d4d817e7f6326d7cc01d47fada.js" loaded.
+2024-5-9 09:58:24-debug: [[Executor]] Module "pack:///chunks/ea/ead9e33228c2fcb690c0cc9f702eef0807622046.js" loaded.
+2024-5-9 09:58:24-debug: [[Executor]] Register test02
+2024-5-9 09:58:24-debug: [[Executor]] Register test03
+2024-5-9 09:58:24-debug: [[Executor]] Module "pack:///chunks/d4/d40f1cbda380e30314acd87b1c33fedd2f0e825f.js" loaded.
+2024-5-9 09:58:24-debug: [[Executor]] Module "pack:///chunks/ec/ec51712dbe2bd3beba20a1306bd60cc6c4e2d51e.js" loaded.
+2024-5-9 09:58:24-debug: [[Executor]] Module "pack:///chunks/0c/0c8a847e84c605d1566ecd4d85f683a4b4bf35db.js" loaded.
+2024-5-9 09:58:24-debug: [[Executor]] Register HelloWorld
+2024-5-9 09:58:24-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 09:58:24-debug: Incremental keys: 
+2024-5-9 09:58:24-debug: // ---- build task Query asset bundle ----
+2024-5-9 09:58:24-debug: Query asset bundle start0%
+2024-5-9 09:58:24-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2024-5-9 09:58:24-debug: run build task Query asset bundle success in 25 ms √5%
+2024-5-9 09:58:24-debug: [Build Memory track]: Query asset bundle start:294.10MB, end 294.18MB, increase: 84.16KB
+2024-5-9 09:58:24-debug: // ---- build task Query asset bundle ---- (25ms)
+2024-5-9 09:58:24-debug: // ---- build task Query asset bundle ----
+2024-5-9 09:58:24-debug: Query asset bundle start5%
+2024-5-9 09:58:24-debug: // ---- build task Query asset bundle ---- (1ms)
+2024-5-9 09:58:24-debug: run build task Query asset bundle success in 1 ms √10%
+2024-5-9 09:58:24-debug: Sort some build options to settings.json start10%
+2024-5-9 09:58:24-debug: [Build Memory track]: Query asset bundle start:294.20MB, end 294.21MB, increase: 16.15KB
+2024-5-9 09:58:24-debug: // ---- build task Sort some build options to settings.json ----
+2024-5-9 09:58:24-debug: run build task Sort some build options to settings.json success in 1 ms √12%
+2024-5-9 09:58:24-debug: [Build Memory track]: Sort some build options to settings.json start:294.23MB, end 294.25MB, increase: 19.04KB
+2024-5-9 09:58:24-debug: // ---- build task Sort some build options to settings.json ---- (1ms)
+2024-5-9 09:58:24-debug: // ---- build task Fill script data to settings ----
+2024-5-9 09:58:24-debug: Fill script data to settings start12%
+2024-5-9 09:58:24-debug: // ---- build task Fill script data to settings ---- (2ms)
+2024-5-9 09:58:24-debug: run build task Fill script data to settings success in 2 ms √13%
+2024-5-9 09:58:24-debug: [Build Memory track]: Fill script data to settings start:294.26MB, end 294.28MB, increase: 17.45KB
+2024-5-9 09:58:24-debug: Sort some build options to settings.json start13%
+2024-5-9 09:58:24-debug: // ---- build task Sort some build options to settings.json ----
+2024-5-9 09:58:24-debug: // ---- build task Sort some build options to settings.json ---- (4ms)
+2024-5-9 09:58:24-debug: [Build Memory track]: Sort some build options to settings.json start:294.29MB, end 294.42MB, increase: 123.71KB
+2024-5-9 09:58:24-debug: run build task Sort some build options to settings.json success in 4 ms √15%
+2024-5-9 09:59:51-debug: refresh db internal success
+2024-5-9 09:59:51-debug: refresh db assets success
+2024-5-9 09:59:51-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 09:59:51-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 09:59:51-debug: asset-db:refresh-all-database (118ms)
+2024-5-9 09:59:51-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 09:59:51-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 10:00:41-debug: refresh db internal success
+2024-5-9 10:00:41-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 10:00:41-debug: refresh db assets success
+2024-5-9 10:00:41-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 10:00:41-debug: asset-db:refresh-all-database (127ms)
+2024-5-9 10:00:41-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 10:00:41-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 10:00:46-debug: refresh db internal success
+2024-5-9 10:00:46-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 10:00:46-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 10:00:46-debug: refresh db assets success
+2024-5-9 10:00:46-debug: asset-db:refresh-all-database (126ms)
+2024-5-9 10:00:46-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 10:00:46-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 10:01:16-debug: refresh db internal success
+2024-5-9 10:01:16-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 10:01:16-debug: refresh db assets success
+2024-5-9 10:01:16-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 10:01:16-debug: asset-db:refresh-all-database (123ms)
+2024-5-9 10:04:15-debug: refresh db internal success
+2024-5-9 10:04:15-debug: refresh db assets success
+2024-5-9 10:04:15-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 10:04:15-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 10:04:15-debug: asset-db:refresh-all-database (114ms)
+2024-5-9 10:04:15-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 10:04:15-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 10:04:19-debug: refresh db internal success
+2024-5-9 10:04:19-debug: refresh db assets success
+2024-5-9 10:04:19-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 10:04:19-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 10:04:19-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 10:04:19-debug: asset-db:refresh-all-database (114ms)
+2024-5-9 10:04:19-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 10:05:06-debug: refresh db internal success
+2024-5-9 10:05:06-debug: refresh db assets success
+2024-5-9 10:05:06-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 10:05:06-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 10:05:06-debug: asset-db:refresh-all-database (114ms)
+2024-5-9 10:05:06-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 10:05:06-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 10:05:11-debug: refresh db internal success
+2024-5-9 10:05:11-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 10:05:11-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 10:05:11-debug: refresh db assets success
+2024-5-9 10:05:11-debug: asset-db:refresh-all-database (110ms)
+2024-5-9 10:05:11-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 10:05:11-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 10:05:13-debug: refresh db internal success
+2024-5-9 10:05:13-debug: refresh db assets success
+2024-5-9 10:05:13-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 10:05:13-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 10:05:13-debug: asset-db:refresh-all-database (152ms)
+2024-5-9 10:05:13-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 10:05:13-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 10:05:16-debug: refresh db internal success
+2024-5-9 10:05:16-debug: refresh db assets success
+2024-5-9 10:05:16-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 10:05:16-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 10:05:16-debug: asset-db:refresh-all-database (107ms)
+2024-5-9 10:05:16-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 10:05:16-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 10:05:46-debug: programming:execute-script (6ms)
+2024-5-9 10:05:47-debug: Query all assets info in project
+2024-5-9 10:05:47-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-9 10:05:47-debug:   Number of all scenes: 6
+2024-5-9 10:05:47-debug:   Number of all scripts: 6
+2024-5-9 10:05:47-debug:   Number of other assets: 433
+2024-5-9 10:05:47-debug: reload all scripts.
+2024-5-9 10:05:47-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-9 10:05:47-debug: Unregister DebugViewRuntimeControl
+2024-5-9 10:05:47-debug: Unregister test02
+2024-5-9 10:05:47-debug: Unregister test01
+2024-5-9 10:05:47-debug: Unregister final
+2024-5-9 10:05:47-debug: Unregister HelloWorld
+2024-5-9 10:05:47-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-9 10:05:47-debug: Unregister test03
+2024-5-9 10:05:47-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-5-9 10:05:47-debug: Invalidating 'pack:///chunks/b1/b125f9d2b5256259980950bcace2367b045770e5.js'
+2024-5-9 10:05:47-debug: Invalidating 'pack:///chunks/77/77a171dde9e840d4d817e7f6326d7cc01d47fada.js'
+2024-5-9 10:05:47-debug: Invalidating 'pack:///chunks/ea/ead9e33228c2fcb690c0cc9f702eef0807622046.js'
+2024-5-9 10:05:47-debug: Invalidating 'pack:///chunks/d4/d40f1cbda380e30314acd87b1c33fedd2f0e825f.js'
+2024-5-9 10:05:47-debug: Invalidating 'pack:///chunks/ec/ec51712dbe2bd3beba20a1306bd60cc6c4e2d51e.js'
+2024-5-9 10:05:47-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-9 10:05:47-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 10:05:47-debug: Invalidating 'pack:///chunks/0c/0c8a847e84c605d1566ecd4d85f683a4b4bf35db.js'
+2024-5-9 10:05:47-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-9 10:05:47-debug: [[Executor]] Module "pack:///chunks/b1/b125f9d2b5256259980950bcace2367b045770e5.js" loaded.
+2024-5-9 10:05:47-debug: [[Executor]] Register final
+2024-5-9 10:05:47-debug: [[Executor]] Module "pack:///chunks/77/77a171dde9e840d4d817e7f6326d7cc01d47fada.js" loaded.
+2024-5-9 10:05:47-debug: [[Executor]] Register test01
+2024-5-9 10:05:47-debug: [[Executor]] Module "pack:///chunks/ea/ead9e33228c2fcb690c0cc9f702eef0807622046.js" loaded.
+2024-5-9 10:05:47-debug: [[Executor]] Register test02
+2024-5-9 10:05:47-debug: [[Executor]] Register test03
+2024-5-9 10:05:47-debug: [[Executor]] Module "pack:///chunks/d4/d40f1cbda380e30314acd87b1c33fedd2f0e825f.js" loaded.
+2024-5-9 10:05:47-debug: [[Executor]] Module "pack:///chunks/0c/0c8a847e84c605d1566ecd4d85f683a4b4bf35db.js" loaded.
+2024-5-9 10:05:47-debug: [[Executor]] Register HelloWorld
+2024-5-9 10:05:47-debug: [[Executor]] Module "pack:///chunks/ec/ec51712dbe2bd3beba20a1306bd60cc6c4e2d51e.js" loaded.
+2024-5-9 10:05:47-debug: Incremental keys: 
+2024-5-9 10:05:47-debug: Query asset bundle start0%
+2024-5-9 10:05:47-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 10:05:47-debug: // ---- build task Query asset bundle ----
+2024-5-9 10:05:47-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2024-5-9 10:05:47-debug: // ---- build task Query asset bundle ---- (25ms)
+2024-5-9 10:05:47-debug: run build task Query asset bundle success in 25 ms √5%
+2024-5-9 10:05:47-debug: [Build Memory track]: Query asset bundle start:304.28MB, end 304.48MB, increase: 209.63KB
+2024-5-9 10:05:47-debug: Query asset bundle start5%
+2024-5-9 10:05:47-debug: // ---- build task Query asset bundle ----
+2024-5-9 10:05:47-debug: run build task Query asset bundle success in 0 ms √10%
+2024-5-9 10:05:47-debug: [Build Memory track]: Query asset bundle start:304.50MB, end 304.51MB, increase: 11.75KB
+2024-5-9 10:05:47-debug: // ---- build task Sort some build options to settings.json ----
+2024-5-9 10:05:47-debug: Sort some build options to settings.json start10%
+2024-5-9 10:05:47-debug: // ---- build task Sort some build options to settings.json ---- (1ms)
+2024-5-9 10:05:47-debug: run build task Sort some build options to settings.json success in 1 ms √12%
+2024-5-9 10:05:47-debug: [Build Memory track]: Sort some build options to settings.json start:304.52MB, end 304.54MB, increase: 22.83KB
+2024-5-9 10:05:47-debug: Fill script data to settings start12%
+2024-5-9 10:05:47-debug: // ---- build task Fill script data to settings ----
+2024-5-9 10:05:47-debug: [Build Memory track]: Fill script data to settings start:304.56MB, end 304.57MB, increase: 13.04KB
+2024-5-9 10:05:47-debug: run build task Fill script data to settings success in 0 ms √13%
+2024-5-9 10:05:48-debug: Sort some build options to settings.json start13%
+2024-5-9 10:05:48-debug: // ---- build task Sort some build options to settings.json ----
+2024-5-9 10:05:48-debug: // ---- build task Sort some build options to settings.json ---- (4ms)
+2024-5-9 10:05:48-debug: run build task Sort some build options to settings.json success in 4 ms √15%
+2024-5-9 10:05:48-debug: [Build Memory track]: Sort some build options to settings.json start:304.59MB, end 304.70MB, increase: 118.28KB
+2024-5-9 10:06:13-debug: programming:execute-script (8ms)
+2024-5-9 10:06:14-debug: Query all assets info in project
+2024-5-9 10:06:14-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-9 10:06:14-debug:   Number of all scenes: 6
+2024-5-9 10:06:14-debug:   Number of all scripts: 6
+2024-5-9 10:06:14-debug:   Number of other assets: 433
+2024-5-9 10:06:14-debug: reload all scripts.
+2024-5-9 10:06:15-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-9 10:06:15-debug: Unregister DebugViewRuntimeControl
+2024-5-9 10:06:15-debug: Unregister final
+2024-5-9 10:06:15-debug: Unregister test01
+2024-5-9 10:06:15-debug: Unregister test02
+2024-5-9 10:06:15-debug: Unregister test03
+2024-5-9 10:06:15-debug: Unregister HelloWorld
+2024-5-9 10:06:15-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-9 10:06:15-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-5-9 10:06:15-debug: Invalidating 'pack:///chunks/b1/b125f9d2b5256259980950bcace2367b045770e5.js'
+2024-5-9 10:06:15-debug: Invalidating 'pack:///chunks/77/77a171dde9e840d4d817e7f6326d7cc01d47fada.js'
+2024-5-9 10:06:15-debug: Invalidating 'pack:///chunks/ea/ead9e33228c2fcb690c0cc9f702eef0807622046.js'
+2024-5-9 10:06:15-debug: Invalidating 'pack:///chunks/d4/d40f1cbda380e30314acd87b1c33fedd2f0e825f.js'
+2024-5-9 10:06:15-debug: Invalidating 'pack:///chunks/0c/0c8a847e84c605d1566ecd4d85f683a4b4bf35db.js'
+2024-5-9 10:06:15-debug: Invalidating 'pack:///chunks/ec/ec51712dbe2bd3beba20a1306bd60cc6c4e2d51e.js'
+2024-5-9 10:06:15-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-9 10:06:15-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 10:06:15-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-9 10:06:15-debug: [[Executor]] Module "pack:///chunks/b1/b125f9d2b5256259980950bcace2367b045770e5.js" loaded.
+2024-5-9 10:06:15-debug: [[Executor]] Register final
+2024-5-9 10:06:15-debug: [[Executor]] Module "pack:///chunks/77/77a171dde9e840d4d817e7f6326d7cc01d47fada.js" loaded.
+2024-5-9 10:06:15-debug: [[Executor]] Register test02
+2024-5-9 10:06:15-debug: [[Executor]] Module "pack:///chunks/ea/ead9e33228c2fcb690c0cc9f702eef0807622046.js" loaded.
+2024-5-9 10:06:15-debug: [[Executor]] Register test01
+2024-5-9 10:06:15-debug: [[Executor]] Module "pack:///chunks/d4/d40f1cbda380e30314acd87b1c33fedd2f0e825f.js" loaded.
+2024-5-9 10:06:15-debug: [[Executor]] Register test03
+2024-5-9 10:06:15-debug: [[Executor]] Module "pack:///chunks/ec/ec51712dbe2bd3beba20a1306bd60cc6c4e2d51e.js" loaded.
+2024-5-9 10:06:15-debug: [[Executor]] Register HelloWorld
+2024-5-9 10:06:15-debug: [[Executor]] Module "pack:///chunks/0c/0c8a847e84c605d1566ecd4d85f683a4b4bf35db.js" loaded.
+2024-5-9 10:06:15-debug: Incremental keys: 
+2024-5-9 10:06:15-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 10:06:15-debug: // ---- build task Query asset bundle ----
+2024-5-9 10:06:15-debug: Query asset bundle start0%
+2024-5-9 10:06:15-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2024-5-9 10:06:15-debug: // ---- build task Query asset bundle ---- (26ms)
+2024-5-9 10:06:15-debug: run build task Query asset bundle success in 26 ms √5%
+2024-5-9 10:06:15-debug: [Build Memory track]: Query asset bundle start:270.83MB, end 270.78MB, increase: -55.04KB
+2024-5-9 10:06:15-debug: // ---- build task Query asset bundle ----
+2024-5-9 10:06:15-debug: Query asset bundle start5%
+2024-5-9 10:06:15-debug: // ---- build task Query asset bundle ---- (1ms)
+2024-5-9 10:06:15-debug: [Build Memory track]: Query asset bundle start:270.80MB, end 270.81MB, increase: 16.96KB
+2024-5-9 10:06:15-debug: run build task Query asset bundle success in 1 ms √10%
+2024-5-9 10:06:15-debug: // ---- build task Sort some build options to settings.json ----
+2024-5-9 10:06:15-debug: Sort some build options to settings.json start10%
+2024-5-9 10:06:15-debug: run build task Sort some build options to settings.json success in 1 ms √12%
+2024-5-9 10:06:15-debug: [Build Memory track]: Sort some build options to settings.json start:270.83MB, end 270.85MB, increase: 18.37KB
+2024-5-9 10:06:15-debug: Fill script data to settings start12%
+2024-5-9 10:06:15-debug: // ---- build task Fill script data to settings ----
+2024-5-9 10:06:15-debug: // ---- build task Sort some build options to settings.json ---- (1ms)
+2024-5-9 10:06:15-debug: run build task Fill script data to settings success in 1 ms √13%
+2024-5-9 10:06:15-debug: [Build Memory track]: Fill script data to settings start:270.86MB, end 270.88MB, increase: 17.25KB
+2024-5-9 10:06:15-debug: Sort some build options to settings.json start13%
+2024-5-9 10:06:15-debug: // ---- build task Fill script data to settings ---- (1ms)
+2024-5-9 10:06:15-debug: // ---- build task Sort some build options to settings.json ----
+2024-5-9 10:06:15-debug: // ---- build task Sort some build options to settings.json ---- (4ms)
+2024-5-9 10:06:15-debug: run build task Sort some build options to settings.json success in 4 ms √15%
+2024-5-9 10:06:15-debug: [Build Memory track]: Sort some build options to settings.json start:270.89MB, end 271.02MB, increase: 127.36KB
+2024-5-9 10:06:31-debug: programming:execute-script (7ms)
+2024-5-9 10:06:32-debug: Query all assets info in project
+2024-5-9 10:06:32-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-9 10:06:32-debug:   Number of all scripts: 6
+2024-5-9 10:06:32-debug:   Number of other assets: 433
+2024-5-9 10:06:32-debug:   Number of all scenes: 6
+2024-5-9 10:06:32-debug: reload all scripts.
+2024-5-9 10:06:32-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-9 10:06:32-debug: Unregister DebugViewRuntimeControl
+2024-5-9 10:06:32-debug: Unregister test01
+2024-5-9 10:06:32-debug: Unregister final
+2024-5-9 10:06:32-debug: Unregister test02
+2024-5-9 10:06:32-debug: Unregister HelloWorld
+2024-5-9 10:06:32-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-9 10:06:32-debug: Unregister test03
+2024-5-9 10:06:32-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-5-9 10:06:32-debug: Invalidating 'pack:///chunks/b1/b125f9d2b5256259980950bcace2367b045770e5.js'
+2024-5-9 10:06:32-debug: Invalidating 'pack:///chunks/ea/ead9e33228c2fcb690c0cc9f702eef0807622046.js'
+2024-5-9 10:06:32-debug: Invalidating 'pack:///chunks/d4/d40f1cbda380e30314acd87b1c33fedd2f0e825f.js'
+2024-5-9 10:06:32-debug: Invalidating 'pack:///chunks/0c/0c8a847e84c605d1566ecd4d85f683a4b4bf35db.js'
+2024-5-9 10:06:32-debug: Invalidating 'pack:///chunks/77/77a171dde9e840d4d817e7f6326d7cc01d47fada.js'
+2024-5-9 10:06:32-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-9 10:06:32-debug: Invalidating 'pack:///chunks/ec/ec51712dbe2bd3beba20a1306bd60cc6c4e2d51e.js'
+2024-5-9 10:06:32-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 10:06:32-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-9 10:06:32-debug: [[Executor]] Module "pack:///chunks/77/77a171dde9e840d4d817e7f6326d7cc01d47fada.js" loaded.
+2024-5-9 10:06:32-debug: [[Executor]] Module "pack:///chunks/b1/b125f9d2b5256259980950bcace2367b045770e5.js" loaded.
+2024-5-9 10:06:32-debug: [[Executor]] Register test01
+2024-5-9 10:06:32-debug: [[Executor]] Module "pack:///chunks/ea/ead9e33228c2fcb690c0cc9f702eef0807622046.js" loaded.
+2024-5-9 10:06:32-debug: [[Executor]] Module "pack:///chunks/d4/d40f1cbda380e30314acd87b1c33fedd2f0e825f.js" loaded.
+2024-5-9 10:06:32-debug: [[Executor]] Register final
+2024-5-9 10:06:32-debug: [[Executor]] Register test02
+2024-5-9 10:06:32-debug: [[Executor]] Register test03
+2024-5-9 10:06:32-debug: [[Executor]] Module "pack:///chunks/0c/0c8a847e84c605d1566ecd4d85f683a4b4bf35db.js" loaded.
+2024-5-9 10:06:32-debug: [[Executor]] Module "pack:///chunks/ec/ec51712dbe2bd3beba20a1306bd60cc6c4e2d51e.js" loaded.
+2024-5-9 10:06:32-debug: [[Executor]] Register HelloWorld
+2024-5-9 10:06:32-debug: Query asset bundle start0%
+2024-5-9 10:06:32-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 10:06:32-debug: Incremental keys: 
+2024-5-9 10:06:32-debug: // ---- build task Query asset bundle ----
+2024-5-9 10:06:32-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2024-5-9 10:06:32-debug: // ---- build task Query asset bundle ---- (26ms)
+2024-5-9 10:06:32-debug: run build task Query asset bundle success in 26 ms √5%
+2024-5-9 10:06:32-debug: [Build Memory track]: Query asset bundle start:272.94MB, end 272.98MB, increase: 41.71KB
+2024-5-9 10:06:32-debug: // ---- build task Query asset bundle ----
+2024-5-9 10:06:32-debug: Query asset bundle start5%
+2024-5-9 10:06:32-debug: // ---- build task Query asset bundle ---- (1ms)
+2024-5-9 10:06:32-debug: [Build Memory track]: Query asset bundle start:273.00MB, end 273.01MB, increase: 15.28KB
+2024-5-9 10:06:32-debug: Sort some build options to settings.json start10%
+2024-5-9 10:06:32-debug: run build task Query asset bundle success in 1 ms √10%
+2024-5-9 10:06:32-debug: // ---- build task Sort some build options to settings.json ----
+2024-5-9 10:06:32-debug: // ---- build task Sort some build options to settings.json ---- (1ms)
+2024-5-9 10:06:32-debug: run build task Sort some build options to settings.json success in 1 ms √12%
+2024-5-9 10:06:32-debug: [Build Memory track]: Sort some build options to settings.json start:273.03MB, end 273.05MB, increase: 18.06KB
+2024-5-9 10:06:32-debug: Fill script data to settings start12%
+2024-5-9 10:06:32-debug: // ---- build task Fill script data to settings ----
+2024-5-9 10:06:32-debug: // ---- build task Fill script data to settings ---- (1ms)
+2024-5-9 10:06:32-debug: run build task Fill script data to settings success in 1 ms √13%
+2024-5-9 10:06:32-debug: Sort some build options to settings.json start13%
+2024-5-9 10:06:32-debug: [Build Memory track]: Fill script data to settings start:273.06MB, end 273.08MB, increase: 19.18KB
+2024-5-9 10:06:32-debug: // ---- build task Sort some build options to settings.json ----
+2024-5-9 10:06:32-debug: // ---- build task Sort some build options to settings.json ---- (4ms)
+2024-5-9 10:06:32-debug: run build task Sort some build options to settings.json success in 4 ms √15%
+2024-5-9 10:06:32-debug: [Build Memory track]: Sort some build options to settings.json start:273.09MB, end 273.21MB, increase: 118.50KB
+2024-5-9 10:07:12-debug: refresh db internal success
+2024-5-9 10:07:12-debug: refresh db assets success
+2024-5-9 10:07:12-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 10:07:12-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 10:07:12-debug: asset-db:refresh-all-database (117ms)
+2024-5-9 10:07:12-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 10:07:12-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 10:07:44-debug: refresh db internal success
+2024-5-9 10:07:44-debug: refresh db assets success
+2024-5-9 10:07:44-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 10:07:44-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 10:07:44-debug: asset-db:refresh-all-database (108ms)
+2024-5-9 10:08:03-debug: refresh db internal success
+2024-5-9 10:08:03-debug: refresh db assets success
+2024-5-9 10:08:03-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 10:08:03-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 10:08:03-debug: asset-db:refresh-all-database (119ms)
+2024-5-9 10:08:03-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 10:08:03-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 10:08:18-debug: refresh db internal success
+2024-5-9 10:08:18-debug: refresh db assets success
+2024-5-9 10:08:18-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 10:08:18-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 10:08:18-debug: asset-db:refresh-all-database (115ms)
+2024-5-9 10:08:53-debug: refresh db internal success
+2024-5-9 10:08:53-debug: refresh db assets success
+2024-5-9 10:08:53-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 10:08:53-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 10:08:53-debug: asset-db:refresh-all-database (118ms)
+2024-5-9 10:08:53-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 10:08:53-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 10:11:26-debug: refresh db internal success
+2024-5-9 10:11:26-debug: refresh db assets success
+2024-5-9 10:11:26-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 10:11:26-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 10:11:26-debug: asset-db:refresh-all-database (111ms)
+2024-5-9 10:11:26-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 10:11:26-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 10:17:41-debug: refresh db internal success
+2024-5-9 10:17:41-debug: %cImport%c: D:\Courses\Cocos\Cocos Projects\Test\assets\Missions\final\final.tsbackground: #aaff85; color: #000;color: #000;
+2024-5-9 10:17:41-debug: refresh db assets success
+2024-5-9 10:17:41-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 10:17:41-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 10:17:41-debug: asset-db:refresh-all-database (111ms)
+2024-5-9 10:17:41-debug: asset-db:worker-effect-data-processing (2ms)
+2024-5-9 10:17:41-debug: asset-db-hook-engine-extends-afterRefresh (3ms)
+2024-5-9 10:18:16-debug: programming:execute-script (9ms)
+2024-5-9 10:18:17-debug: Query all assets info in project
+2024-5-9 10:18:17-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-9 10:18:17-debug:   Number of all scenes: 6
+2024-5-9 10:18:17-debug:   Number of all scripts: 6
+2024-5-9 10:18:17-debug:   Number of other assets: 433
+2024-5-9 10:18:17-debug: reload all scripts.
+2024-5-9 10:18:17-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-9 10:18:17-debug: Unregister DebugViewRuntimeControl
+2024-5-9 10:18:17-debug: Unregister test01
+2024-5-9 10:18:17-debug: Unregister final
+2024-5-9 10:18:17-debug: Unregister test02
+2024-5-9 10:18:17-debug: Unregister test03
+2024-5-9 10:18:17-debug: Unregister HelloWorld
+2024-5-9 10:18:17-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-9 10:18:17-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-5-9 10:18:17-debug: Invalidating 'pack:///chunks/77/77a171dde9e840d4d817e7f6326d7cc01d47fada.js'
+2024-5-9 10:18:17-debug: Invalidating 'pack:///chunks/ea/ead9e33228c2fcb690c0cc9f702eef0807622046.js'
+2024-5-9 10:18:17-debug: Invalidating 'pack:///chunks/b1/b125f9d2b5256259980950bcace2367b045770e5.js'
+2024-5-9 10:18:17-debug: Invalidating 'pack:///chunks/0c/0c8a847e84c605d1566ecd4d85f683a4b4bf35db.js'
+2024-5-9 10:18:17-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-9 10:18:17-debug: Invalidating 'pack:///chunks/ec/ec51712dbe2bd3beba20a1306bd60cc6c4e2d51e.js'
+2024-5-9 10:18:17-debug: Invalidating 'pack:///chunks/d4/d40f1cbda380e30314acd87b1c33fedd2f0e825f.js'
+2024-5-9 10:18:17-debug: D:\Courses\Cocos\Cocos Projects\Test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js resolved to D:\Courses\Cocos\Cocos Projects\Test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js is not in module cache!
+2024-5-9 10:18:17-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-9 10:18:17-debug: [[Executor]] Module "pack:///chunks/b1/b125f9d2b5256259980950bcace2367b045770e5.js" loaded.
+2024-5-9 10:18:17-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 10:18:17-debug: D:\Courses\Cocos\Cocos Projects\Test\temp\programming\packer-driver\targets\editor\chunks\77\77a171dde9e840d4d817e7f6326d7cc01d47fada.js resolved to D:\Courses\Cocos\Cocos Projects\Test\temp\programming\packer-driver\targets\editor\chunks\77\77a171dde9e840d4d817e7f6326d7cc01d47fada.js is not in module cache!
+2024-5-9 10:18:17-debug: [[Executor]] Register test01
+2024-5-9 10:18:17-debug: [[Executor]] Module "pack:///chunks/77/77a171dde9e840d4d817e7f6326d7cc01d47fada.js" loaded.
+2024-5-9 10:18:17-debug: [[Executor]] Module "pack:///chunks/ea/ead9e33228c2fcb690c0cc9f702eef0807622046.js" loaded.
+2024-5-9 10:18:17-debug: [[Executor]] Register final
+2024-5-9 10:18:17-debug: [[Executor]] Register test02
+2024-5-9 10:18:17-debug: [[Executor]] Module "pack:///chunks/d4/d40f1cbda380e30314acd87b1c33fedd2f0e825f.js" loaded.
+2024-5-9 10:18:17-debug: [[Executor]] Register test03
+2024-5-9 10:18:17-debug: [[Executor]] Module "pack:///chunks/0c/0c8a847e84c605d1566ecd4d85f683a4b4bf35db.js" loaded.
+2024-5-9 10:18:17-debug: [[Executor]] Register HelloWorld
+2024-5-9 10:18:17-debug: [[Executor]] Module "pack:///chunks/ec/ec51712dbe2bd3beba20a1306bd60cc6c4e2d51e.js" loaded.
+2024-5-9 10:18:17-debug: Incremental keys: 
+2024-5-9 10:18:17-debug: Query asset bundle start0%
+2024-5-9 10:18:17-debug: // ---- build task Query asset bundle ----
+2024-5-9 10:18:17-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 10:18:17-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2024-5-9 10:18:17-debug: // ---- build task Query asset bundle ---- (25ms)
+2024-5-9 10:18:17-debug: run build task Query asset bundle success in 25 ms √5%
+2024-5-9 10:18:17-debug: Query asset bundle start5%
+2024-5-9 10:18:17-debug: [Build Memory track]: Query asset bundle start:280.96MB, end 280.64MB, increase: -326.18KB
+2024-5-9 10:18:17-debug: // ---- build task Query asset bundle ----
+2024-5-9 10:18:17-debug: // ---- build task Query asset bundle ---- (2ms)
+2024-5-9 10:18:17-debug: run build task Query asset bundle success in 2 ms √10%
+2024-5-9 10:18:17-debug: [Build Memory track]: Query asset bundle start:280.66MB, end 280.68MB, increase: 16.73KB
+2024-5-9 10:18:17-debug: Sort some build options to settings.json start10%
+2024-5-9 10:18:17-debug: // ---- build task Sort some build options to settings.json ----
+2024-5-9 10:18:17-debug: // ---- build task Sort some build options to settings.json ---- (1ms)
+2024-5-9 10:18:17-debug: run build task Sort some build options to settings.json success in 1 ms √12%
+2024-5-9 10:18:17-debug: [Build Memory track]: Sort some build options to settings.json start:280.69MB, end 280.71MB, increase: 16.73KB
+2024-5-9 10:18:17-debug: Fill script data to settings start12%
+2024-5-9 10:18:17-debug: // ---- build task Fill script data to settings ----
+2024-5-9 10:18:17-debug: // ---- build task Fill script data to settings ---- (2ms)
+2024-5-9 10:18:17-debug: run build task Fill script data to settings success in 2 ms √13%
+2024-5-9 10:18:17-debug: [Build Memory track]: Fill script data to settings start:280.72MB, end 280.74MB, increase: 17.36KB
+2024-5-9 10:18:17-debug: // ---- build task Sort some build options to settings.json ----
+2024-5-9 10:18:17-debug: Sort some build options to settings.json start13%
+2024-5-9 10:18:17-debug: // ---- build task Sort some build options to settings.json ---- (5ms)
+2024-5-9 10:18:17-debug: run build task Sort some build options to settings.json success in 5 ms √15%
+2024-5-9 10:18:17-debug: [Build Memory track]: Sort some build options to settings.json start:280.75MB, end 280.87MB, increase: 119.34KB
+2024-5-9 10:22:53-debug: refresh db internal success
+2024-5-9 10:22:53-debug: refresh db assets success
+2024-5-9 10:22:53-debug: %cImport%c: D:\Courses\Cocos\Cocos Projects\Test\assets\Missions\final\final.tsbackground: #aaff85; color: #000;color: #000;
+2024-5-9 10:22:53-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 10:22:53-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 10:22:53-debug: asset-db:refresh-all-database (119ms)
+2024-5-9 10:22:53-debug: asset-db:worker-effect-data-processing (2ms)
+2024-5-9 10:22:53-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 10:24:34-debug: refresh db internal success
+2024-5-9 10:24:34-debug: %cImport%c: D:\Courses\Cocos\Cocos Projects\Test\assets\Missions\final\final.tsbackground: #aaff85; color: #000;color: #000;
+2024-5-9 10:24:34-debug: refresh db assets success
+2024-5-9 10:24:34-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 10:24:34-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 10:24:34-debug: asset-db:refresh-all-database (108ms)
+2024-5-9 10:24:34-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 10:24:34-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 10:24:37-debug: programming:execute-script (7ms)
+2024-5-9 10:24:38-debug: Query all assets info in project
+2024-5-9 10:24:38-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-9 10:24:38-debug:   Number of all scenes: 6
+2024-5-9 10:24:38-debug:   Number of other assets: 433
+2024-5-9 10:24:38-debug:   Number of all scripts: 6
+2024-5-9 10:24:38-debug: reload all scripts.
+2024-5-9 10:24:38-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-9 10:24:38-debug: Unregister test01
+2024-5-9 10:24:38-debug: Unregister DebugViewRuntimeControl
+2024-5-9 10:24:38-debug: Unregister final
+2024-5-9 10:24:38-debug: Unregister test02
+2024-5-9 10:24:38-debug: Unregister HelloWorld
+2024-5-9 10:24:38-debug: Unregister test03
+2024-5-9 10:24:38-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-9 10:24:38-debug: Invalidating 'pack:///chunks/b1/b125f9d2b5256259980950bcace2367b045770e5.js'
+2024-5-9 10:24:38-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-5-9 10:24:38-debug: Invalidating 'pack:///chunks/ea/ead9e33228c2fcb690c0cc9f702eef0807622046.js'
+2024-5-9 10:24:38-debug: Invalidating 'pack:///chunks/77/77a171dde9e840d4d817e7f6326d7cc01d47fada.js'
+2024-5-9 10:24:38-debug: Invalidating 'pack:///chunks/d4/d40f1cbda380e30314acd87b1c33fedd2f0e825f.js'
+2024-5-9 10:24:38-debug: Invalidating 'pack:///chunks/0c/0c8a847e84c605d1566ecd4d85f683a4b4bf35db.js'
+2024-5-9 10:24:38-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-9 10:24:38-debug: Invalidating 'pack:///chunks/ec/ec51712dbe2bd3beba20a1306bd60cc6c4e2d51e.js'
+2024-5-9 10:24:38-debug: D:\Courses\Cocos\Cocos Projects\Test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js resolved to D:\Courses\Cocos\Cocos Projects\Test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js is not in module cache!
+2024-5-9 10:24:38-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 10:24:38-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-9 10:24:38-debug: [[Executor]] Module "pack:///chunks/b1/b125f9d2b5256259980950bcace2367b045770e5.js" loaded.
+2024-5-9 10:24:38-debug: D:\Courses\Cocos\Cocos Projects\Test\temp\programming\packer-driver\targets\editor\chunks\77\77a171dde9e840d4d817e7f6326d7cc01d47fada.js resolved to D:\Courses\Cocos\Cocos Projects\Test\temp\programming\packer-driver\targets\editor\chunks\77\77a171dde9e840d4d817e7f6326d7cc01d47fada.js is not in module cache!
+2024-5-9 10:24:38-debug: [[Executor]] Register final
+2024-5-9 10:24:38-debug: [[Executor]] Module "pack:///chunks/77/77a171dde9e840d4d817e7f6326d7cc01d47fada.js" loaded.
+2024-5-9 10:24:38-debug: [[Executor]] Module "pack:///chunks/ea/ead9e33228c2fcb690c0cc9f702eef0807622046.js" loaded.
+2024-5-9 10:24:38-debug: [[Executor]] Register test02
+2024-5-9 10:24:38-debug: [[Executor]] Register test01
+2024-5-9 10:24:38-debug: [[Executor]] Register test03
+2024-5-9 10:24:38-debug: [[Executor]] Module "pack:///chunks/d4/d40f1cbda380e30314acd87b1c33fedd2f0e825f.js" loaded.
+2024-5-9 10:24:38-debug: [[Executor]] Module "pack:///chunks/ec/ec51712dbe2bd3beba20a1306bd60cc6c4e2d51e.js" loaded.
+2024-5-9 10:24:38-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 10:24:38-debug: Incremental keys: 
+2024-5-9 10:24:38-debug: Query asset bundle start0%
+2024-5-9 10:24:38-debug: [[Executor]] Register HelloWorld
+2024-5-9 10:24:38-debug: [[Executor]] Module "pack:///chunks/0c/0c8a847e84c605d1566ecd4d85f683a4b4bf35db.js" loaded.
+2024-5-9 10:24:38-debug: // ---- build task Query asset bundle ----
+2024-5-9 10:24:38-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2024-5-9 10:24:38-debug: // ---- build task Query asset bundle ---- (20ms)
+2024-5-9 10:24:38-debug: run build task Query asset bundle success in 20 ms √5%
+2024-5-9 10:24:38-debug: [Build Memory track]: Query asset bundle start:283.89MB, end 283.68MB, increase: -216.66KB
+2024-5-9 10:24:38-debug: // ---- build task Query asset bundle ----
+2024-5-9 10:24:38-debug: Query asset bundle start5%
+2024-5-9 10:24:38-debug: run build task Query asset bundle success in 0 ms √10%
+2024-5-9 10:24:38-debug: [Build Memory track]: Query asset bundle start:283.70MB, end 283.71MB, increase: 11.32KB
+2024-5-9 10:24:38-debug: Sort some build options to settings.json start10%
+2024-5-9 10:24:38-debug: // ---- build task Sort some build options to settings.json ----
+2024-5-9 10:24:38-debug: run build task Sort some build options to settings.json success in 0 ms √12%
+2024-5-9 10:24:38-debug: [Build Memory track]: Sort some build options to settings.json start:283.72MB, end 283.74MB, increase: 13.86KB
+2024-5-9 10:24:38-debug: Fill script data to settings start12%
+2024-5-9 10:24:38-debug: // ---- build task Fill script data to settings ----
+2024-5-9 10:24:38-debug: run build task Fill script data to settings success in 0 ms √13%
+2024-5-9 10:24:38-debug: [Build Memory track]: Fill script data to settings start:283.75MB, end 283.76MB, increase: 10.79KB
+2024-5-9 10:24:38-debug: Sort some build options to settings.json start13%
+2024-5-9 10:24:38-debug: // ---- build task Sort some build options to settings.json ----
+2024-5-9 10:24:38-debug: // ---- build task Sort some build options to settings.json ---- (5ms)
+2024-5-9 10:24:38-debug: run build task Sort some build options to settings.json success in 5 ms √15%
+2024-5-9 10:24:38-debug: [Build Memory track]: Sort some build options to settings.json start:283.78MB, end 283.91MB, increase: 139.68KB
+2024-5-9 10:25:03-debug: programming:execute-script (6ms)
+2024-5-9 10:25:04-debug: Query all assets info in project
+2024-5-9 10:25:04-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-9 10:25:04-debug:   Number of all scenes: 6
+2024-5-9 10:25:04-debug:   Number of all scripts: 6
+2024-5-9 10:25:04-debug:   Number of other assets: 433
+2024-5-9 10:25:04-debug: reload all scripts.
+2024-5-9 10:25:04-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-9 10:25:04-debug: Unregister DebugViewRuntimeControl
+2024-5-9 10:25:04-debug: Unregister final
+2024-5-9 10:25:04-debug: Unregister test01
+2024-5-9 10:25:04-debug: Unregister HelloWorld
+2024-5-9 10:25:04-debug: Unregister test02
+2024-5-9 10:25:04-debug: Unregister test03
+2024-5-9 10:25:04-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-9 10:25:04-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-5-9 10:25:04-debug: Invalidating 'pack:///chunks/b1/b125f9d2b5256259980950bcace2367b045770e5.js'
+2024-5-9 10:25:04-debug: Invalidating 'pack:///chunks/ea/ead9e33228c2fcb690c0cc9f702eef0807622046.js'
+2024-5-9 10:25:04-debug: Invalidating 'pack:///chunks/77/77a171dde9e840d4d817e7f6326d7cc01d47fada.js'
+2024-5-9 10:25:04-debug: Invalidating 'pack:///chunks/d4/d40f1cbda380e30314acd87b1c33fedd2f0e825f.js'
+2024-5-9 10:25:04-debug: Invalidating 'pack:///chunks/0c/0c8a847e84c605d1566ecd4d85f683a4b4bf35db.js'
+2024-5-9 10:25:04-debug: Invalidating 'pack:///chunks/ec/ec51712dbe2bd3beba20a1306bd60cc6c4e2d51e.js'
+2024-5-9 10:25:04-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-9 10:25:04-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 10:25:04-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-9 10:25:04-debug: [[Executor]] Module "pack:///chunks/b1/b125f9d2b5256259980950bcace2367b045770e5.js" loaded.
+2024-5-9 10:25:04-debug: [[Executor]] Module "pack:///chunks/77/77a171dde9e840d4d817e7f6326d7cc01d47fada.js" loaded.
+2024-5-9 10:25:04-debug: [[Executor]] Register final
+2024-5-9 10:25:04-debug: [[Executor]] Register test01
+2024-5-9 10:25:04-debug: [[Executor]] Module "pack:///chunks/ea/ead9e33228c2fcb690c0cc9f702eef0807622046.js" loaded.
+2024-5-9 10:25:04-debug: [[Executor]] Register test02
+2024-5-9 10:25:04-debug: [[Executor]] Module "pack:///chunks/d4/d40f1cbda380e30314acd87b1c33fedd2f0e825f.js" loaded.
+2024-5-9 10:25:04-debug: [[Executor]] Register test03
+2024-5-9 10:25:04-debug: [[Executor]] Module "pack:///chunks/0c/0c8a847e84c605d1566ecd4d85f683a4b4bf35db.js" loaded.
+2024-5-9 10:25:04-debug: [[Executor]] Module "pack:///chunks/ec/ec51712dbe2bd3beba20a1306bd60cc6c4e2d51e.js" loaded.
+2024-5-9 10:25:04-debug: Incremental keys: 
+2024-5-9 10:25:04-debug: [[Executor]] Register HelloWorld
+2024-5-9 10:25:04-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 10:25:04-debug: // ---- build task Query asset bundle ----
+2024-5-9 10:25:04-debug: Query asset bundle start0%
+2024-5-9 10:25:04-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2024-5-9 10:25:04-debug: // ---- build task Query asset bundle ---- (24ms)
+2024-5-9 10:25:04-debug: run build task Query asset bundle success in 24 ms √5%
+2024-5-9 10:25:04-debug: // ---- build task Query asset bundle ----
+2024-5-9 10:25:04-debug: [Build Memory track]: Query asset bundle start:285.31MB, end 285.22MB, increase: -91.29KB
+2024-5-9 10:25:04-debug: Query asset bundle start5%
+2024-5-9 10:25:04-debug: run build task Query asset bundle success in 0 ms √10%
+2024-5-9 10:25:04-debug: [Build Memory track]: Query asset bundle start:285.24MB, end 285.25MB, increase: 12.23KB
+2024-5-9 10:25:04-debug: // ---- build task Sort some build options to settings.json ----
+2024-5-9 10:25:04-debug: Sort some build options to settings.json start10%
+2024-5-9 10:25:04-debug: run build task Sort some build options to settings.json success in 0 ms √12%
+2024-5-9 10:25:04-debug: [Build Memory track]: Sort some build options to settings.json start:285.26MB, end 285.27MB, increase: 11.80KB
+2024-5-9 10:25:04-debug: Fill script data to settings start12%
+2024-5-9 10:25:04-debug: // ---- build task Fill script data to settings ----
+2024-5-9 10:25:04-debug: run build task Fill script data to settings success in 0 ms √13%
+2024-5-9 10:25:04-debug: [Build Memory track]: Fill script data to settings start:285.29MB, end 285.30MB, increase: 12.46KB
+2024-5-9 10:25:04-debug: Sort some build options to settings.json start13%
+2024-5-9 10:25:04-debug: // ---- build task Sort some build options to settings.json ----
+2024-5-9 10:25:04-debug: [Build Memory track]: Sort some build options to settings.json start:285.32MB, end 285.43MB, increase: 117.95KB
+2024-5-9 10:25:04-debug: // ---- build task Sort some build options to settings.json ---- (6ms)
+2024-5-9 10:25:04-debug: run build task Sort some build options to settings.json success in 6 ms √15%
+2024-5-9 10:25:54-debug: refresh db internal success
+2024-5-9 10:25:54-debug: refresh db assets success
+2024-5-9 10:25:54-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 10:25:54-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 10:25:54-debug: asset-db:refresh-all-database (112ms)
+2024-5-9 10:25:54-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 10:25:54-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 10:26:01-debug: start refresh asset from D:\Courses\Cocos\Cocos Projects\Test\assets\Missions\final\final.scene...
+2024-5-9 10:26:01-debug: %cImport%c: D:\Courses\Cocos\Cocos Projects\Test\assets\Missions\final\final.scenebackground: #aaff85; color: #000;color: #000;
+2024-5-9 10:26:01-debug: refresh asset D:\Courses\Cocos\Cocos Projects\Test\assets\Missions\final success
+2024-5-9 10:27:01-debug: refresh db internal success
+2024-5-9 10:27:01-debug: refresh db assets success
+2024-5-9 10:27:01-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 10:27:01-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 10:27:01-debug: asset-db:refresh-all-database (112ms)
+2024-5-9 10:27:50-debug: programming:execute-script (13ms)
+2024-5-9 10:27:51-debug: Query all assets info in project
+2024-5-9 10:27:51-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-9 10:27:51-debug:   Number of all scenes: 6
+2024-5-9 10:27:51-debug:   Number of other assets: 433
+2024-5-9 10:27:51-debug:   Number of all scripts: 6
+2024-5-9 10:27:51-debug: reload all scripts.
+2024-5-9 10:27:51-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-9 10:27:51-debug: Unregister DebugViewRuntimeControl
+2024-5-9 10:27:51-debug: Unregister test01
+2024-5-9 10:27:51-debug: Unregister final
+2024-5-9 10:27:51-debug: Unregister test02
+2024-5-9 10:27:51-debug: Unregister test03
+2024-5-9 10:27:51-debug: Unregister HelloWorld
+2024-5-9 10:27:51-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-9 10:27:51-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-5-9 10:27:51-debug: Invalidating 'pack:///chunks/b1/b125f9d2b5256259980950bcace2367b045770e5.js'
+2024-5-9 10:27:51-debug: Invalidating 'pack:///chunks/77/77a171dde9e840d4d817e7f6326d7cc01d47fada.js'
+2024-5-9 10:27:51-debug: Invalidating 'pack:///chunks/ea/ead9e33228c2fcb690c0cc9f702eef0807622046.js'
+2024-5-9 10:27:51-debug: Invalidating 'pack:///chunks/0c/0c8a847e84c605d1566ecd4d85f683a4b4bf35db.js'
+2024-5-9 10:27:51-debug: Invalidating 'pack:///chunks/d4/d40f1cbda380e30314acd87b1c33fedd2f0e825f.js'
+2024-5-9 10:27:51-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-9 10:27:51-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 10:27:51-debug: Invalidating 'pack:///chunks/ec/ec51712dbe2bd3beba20a1306bd60cc6c4e2d51e.js'
+2024-5-9 10:27:51-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-9 10:27:51-debug: [[Executor]] Module "pack:///chunks/b1/b125f9d2b5256259980950bcace2367b045770e5.js" loaded.
+2024-5-9 10:27:51-debug: [[Executor]] Register final
+2024-5-9 10:27:51-debug: [[Executor]] Module "pack:///chunks/77/77a171dde9e840d4d817e7f6326d7cc01d47fada.js" loaded.
+2024-5-9 10:27:51-debug: [[Executor]] Register test01
+2024-5-9 10:27:51-debug: [[Executor]] Module "pack:///chunks/ea/ead9e33228c2fcb690c0cc9f702eef0807622046.js" loaded.
+2024-5-9 10:27:51-debug: [[Executor]] Register test02
+2024-5-9 10:27:51-debug: [[Executor]] Module "pack:///chunks/d4/d40f1cbda380e30314acd87b1c33fedd2f0e825f.js" loaded.
+2024-5-9 10:27:51-debug: [[Executor]] Register test03
+2024-5-9 10:27:51-debug: [[Executor]] Module "pack:///chunks/0c/0c8a847e84c605d1566ecd4d85f683a4b4bf35db.js" loaded.
+2024-5-9 10:27:51-debug: [[Executor]] Register HelloWorld
+2024-5-9 10:27:51-debug: [[Executor]] Module "pack:///chunks/ec/ec51712dbe2bd3beba20a1306bd60cc6c4e2d51e.js" loaded.
+2024-5-9 10:27:51-debug: Incremental keys: 
+2024-5-9 10:27:51-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 10:27:51-debug: Query asset bundle start0%
+2024-5-9 10:27:51-debug: // ---- build task Query asset bundle ----
+2024-5-9 10:27:51-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2024-5-9 10:27:51-debug: // ---- build task Query asset bundle ---- (21ms)
+2024-5-9 10:27:51-debug: [Build Memory track]: Query asset bundle start:289.88MB, end 289.73MB, increase: -156.00KB
+2024-5-9 10:27:51-debug: run build task Query asset bundle success in 21 ms √5%
+2024-5-9 10:27:51-debug: // ---- build task Query asset bundle ----
+2024-5-9 10:27:51-debug: Query asset bundle start5%
+2024-5-9 10:27:51-debug: run build task Query asset bundle success in 0 ms √10%
+2024-5-9 10:27:51-debug: [Build Memory track]: Query asset bundle start:289.74MB, end 289.75MB, increase: 10.66KB
+2024-5-9 10:27:51-debug: // ---- build task Sort some build options to settings.json ----
+2024-5-9 10:27:51-debug: Sort some build options to settings.json start10%
+2024-5-9 10:27:51-debug: run build task Sort some build options to settings.json success in 0 ms √12%
+2024-5-9 10:27:51-debug: [Build Memory track]: Sort some build options to settings.json start:289.77MB, end 289.78MB, increase: 13.87KB
+2024-5-9 10:27:51-debug: Fill script data to settings start12%
+2024-5-9 10:27:51-debug: // ---- build task Fill script data to settings ----
+2024-5-9 10:27:51-debug: // ---- build task Fill script data to settings ---- (1ms)
+2024-5-9 10:27:51-debug: Sort some build options to settings.json start13%
+2024-5-9 10:27:51-debug: run build task Fill script data to settings success in 1 ms √13%
+2024-5-9 10:27:51-debug: [Build Memory track]: Fill script data to settings start:289.79MB, end 289.81MB, increase: 15.43KB
+2024-5-9 10:27:51-debug: // ---- build task Sort some build options to settings.json ----
+2024-5-9 10:27:51-debug: run build task Sort some build options to settings.json success in 3 ms √15%
+2024-5-9 10:27:51-debug: [Build Memory track]: Sort some build options to settings.json start:289.82MB, end 289.94MB, increase: 119.54KB
+2024-5-9 10:27:51-debug: // ---- build task Sort some build options to settings.json ---- (3ms)
+2024-5-9 10:30:25-debug: refresh db internal success
+2024-5-9 10:30:25-debug: %cImport%c: D:\Courses\Cocos\Cocos Projects\Test\assets\Missions\final\final.tsbackground: #aaff85; color: #000;color: #000;
+2024-5-9 10:30:25-debug: refresh db assets success
+2024-5-9 10:30:25-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 10:30:25-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 10:30:25-debug: asset-db:refresh-all-database (114ms)
+2024-5-9 10:30:25-debug: asset-db:worker-effect-data-processing (2ms)
+2024-5-9 10:30:25-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 10:30:28-debug: programming:execute-script (7ms)
+2024-5-9 10:30:29-debug: Query all assets info in project
+2024-5-9 10:30:29-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-9 10:30:29-debug:   Number of all scenes: 6
+2024-5-9 10:30:29-debug:   Number of other assets: 433
+2024-5-9 10:30:29-debug:   Number of all scripts: 6
+2024-5-9 10:30:29-debug: reload all scripts.
+2024-5-9 10:30:29-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-9 10:30:29-debug: Unregister DebugViewRuntimeControl
+2024-5-9 10:30:29-debug: Unregister test01
+2024-5-9 10:30:29-debug: Unregister final
+2024-5-9 10:30:29-debug: Unregister test02
+2024-5-9 10:30:29-debug: Unregister HelloWorld
+2024-5-9 10:30:29-debug: Unregister test03
+2024-5-9 10:30:29-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-5-9 10:30:29-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-9 10:30:29-debug: Invalidating 'pack:///chunks/b1/b125f9d2b5256259980950bcace2367b045770e5.js'
+2024-5-9 10:30:29-debug: Invalidating 'pack:///chunks/ea/ead9e33228c2fcb690c0cc9f702eef0807622046.js'
+2024-5-9 10:30:29-debug: Invalidating 'pack:///chunks/d4/d40f1cbda380e30314acd87b1c33fedd2f0e825f.js'
+2024-5-9 10:30:29-debug: Invalidating 'pack:///chunks/ec/ec51712dbe2bd3beba20a1306bd60cc6c4e2d51e.js'
+2024-5-9 10:30:29-debug: Invalidating 'pack:///chunks/77/77a171dde9e840d4d817e7f6326d7cc01d47fada.js'
+2024-5-9 10:30:29-debug: Invalidating 'pack:///chunks/0c/0c8a847e84c605d1566ecd4d85f683a4b4bf35db.js'
+2024-5-9 10:30:29-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-9 10:30:29-debug: D:\Courses\Cocos\Cocos Projects\Test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js resolved to D:\Courses\Cocos\Cocos Projects\Test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js is not in module cache!
+2024-5-9 10:30:29-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-9 10:30:29-debug: [[Executor]] Module "pack:///chunks/b1/b125f9d2b5256259980950bcace2367b045770e5.js" loaded.
+2024-5-9 10:30:29-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 10:30:29-debug: D:\Courses\Cocos\Cocos Projects\Test\temp\programming\packer-driver\targets\editor\chunks\77\77a171dde9e840d4d817e7f6326d7cc01d47fada.js resolved to D:\Courses\Cocos\Cocos Projects\Test\temp\programming\packer-driver\targets\editor\chunks\77\77a171dde9e840d4d817e7f6326d7cc01d47fada.js is not in module cache!
+2024-5-9 10:30:29-debug: [[Executor]] Register test01
+2024-5-9 10:30:29-debug: [[Executor]] Module "pack:///chunks/77/77a171dde9e840d4d817e7f6326d7cc01d47fada.js" loaded.
+2024-5-9 10:30:29-debug: [[Executor]] Module "pack:///chunks/ea/ead9e33228c2fcb690c0cc9f702eef0807622046.js" loaded.
+2024-5-9 10:30:29-debug: [[Executor]] Register final
+2024-5-9 10:30:29-debug: [[Executor]] Register test02
+2024-5-9 10:30:29-debug: [[Executor]] Module "pack:///chunks/d4/d40f1cbda380e30314acd87b1c33fedd2f0e825f.js" loaded.
+2024-5-9 10:30:29-debug: [[Executor]] Register test03
+2024-5-9 10:30:29-debug: [[Executor]] Module "pack:///chunks/0c/0c8a847e84c605d1566ecd4d85f683a4b4bf35db.js" loaded.
+2024-5-9 10:30:29-debug: [[Executor]] Module "pack:///chunks/ec/ec51712dbe2bd3beba20a1306bd60cc6c4e2d51e.js" loaded.
+2024-5-9 10:30:29-debug: [[Executor]] Register HelloWorld
+2024-5-9 10:30:29-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 10:30:29-debug: Incremental keys: 
+2024-5-9 10:30:29-debug: Query asset bundle start0%
+2024-5-9 10:30:29-debug: // ---- build task Query asset bundle ----
+2024-5-9 10:30:29-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2024-5-9 10:30:29-debug: // ---- build task Query asset bundle ---- (29ms)
+2024-5-9 10:30:29-debug: [Build Memory track]: Query asset bundle start:291.80MB, end 291.62MB, increase: -177.65KB
+2024-5-9 10:30:29-debug: run build task Query asset bundle success in 29 ms √5%
+2024-5-9 10:30:29-debug: Query asset bundle start5%
+2024-5-9 10:30:29-debug: // ---- build task Query asset bundle ----
+2024-5-9 10:30:29-debug: run build task Query asset bundle success in 1 ms √10%
+2024-5-9 10:30:29-debug: // ---- build task Query asset bundle ---- (1ms)
+2024-5-9 10:30:29-debug: [Build Memory track]: Query asset bundle start:291.64MB, end 291.65MB, increase: 14.96KB
+2024-5-9 10:30:29-debug: Sort some build options to settings.json start10%
+2024-5-9 10:30:29-debug: // ---- build task Sort some build options to settings.json ----
+2024-5-9 10:30:29-debug: // ---- build task Sort some build options to settings.json ---- (1ms)
+2024-5-9 10:30:29-debug: run build task Sort some build options to settings.json success in 1 ms √12%
+2024-5-9 10:30:29-debug: [Build Memory track]: Sort some build options to settings.json start:291.67MB, end 291.69MB, increase: 18.38KB
+2024-5-9 10:30:29-debug: Fill script data to settings start12%
+2024-5-9 10:30:29-debug: // ---- build task Fill script data to settings ----
+2024-5-9 10:30:29-debug: // ---- build task Fill script data to settings ---- (1ms)
+2024-5-9 10:30:29-debug: run build task Fill script data to settings success in 1 ms √13%
+2024-5-9 10:30:29-debug: [Build Memory track]: Fill script data to settings start:291.70MB, end 291.72MB, increase: 18.89KB
+2024-5-9 10:30:29-debug: // ---- build task Sort some build options to settings.json ----
+2024-5-9 10:30:29-debug: Sort some build options to settings.json start13%
+2024-5-9 10:30:29-debug: // ---- build task Sort some build options to settings.json ---- (3ms)
+2024-5-9 10:30:29-debug: run build task Sort some build options to settings.json success in 3 ms √15%
+2024-5-9 10:30:29-debug: [Build Memory track]: Sort some build options to settings.json start:291.73MB, end 291.85MB, increase: 117.73KB
+2024-5-9 10:30:43-debug: refresh db internal success
+2024-5-9 10:30:43-debug: refresh db assets success
+2024-5-9 10:30:43-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 10:30:43-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 10:30:43-debug: asset-db:refresh-all-database (113ms)
+2024-5-9 10:30:43-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 10:30:43-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 10:31:12-debug: refresh db internal success
+2024-5-9 10:31:12-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 10:31:12-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 10:31:12-debug: refresh db assets success
+2024-5-9 10:31:12-debug: asset-db:refresh-all-database (113ms)
+2024-5-9 10:31:12-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 10:31:12-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 10:32:25-debug: refresh db internal success
+2024-5-9 10:32:25-debug: refresh db assets success
+2024-5-9 10:32:25-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 10:32:25-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 10:32:25-debug: asset-db:refresh-all-database (129ms)
+2024-5-9 10:32:25-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 10:32:25-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 10:34:20-debug: refresh db internal success
+2024-5-9 10:34:20-debug: %cImport%c: D:\Courses\Cocos\Cocos Projects\Test\assets\Missions\final\final.tsbackground: #aaff85; color: #000;color: #000;
+2024-5-9 10:34:20-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 10:34:20-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 10:34:20-debug: refresh db assets success
+2024-5-9 10:34:20-debug: asset-db:refresh-all-database (109ms)
+2024-5-9 10:34:20-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 10:34:20-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 10:34:26-debug: refresh db internal success
+2024-5-9 10:34:26-debug: refresh db assets success
+2024-5-9 10:34:26-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 10:34:26-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 10:34:26-debug: asset-db:refresh-all-database (193ms)
+2024-5-9 10:34:26-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 10:34:26-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 10:35:51-debug: programming:execute-script (8ms)
+2024-5-9 10:35:52-debug: Query all assets info in project
+2024-5-9 10:35:52-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-9 10:35:52-debug:   Number of all scenes: 6
+2024-5-9 10:35:52-debug:   Number of all scripts: 6
+2024-5-9 10:35:52-debug:   Number of other assets: 433
+2024-5-9 10:35:52-debug: reload all scripts.
+2024-5-9 10:35:52-debug: Unregister DebugViewRuntimeControl
+2024-5-9 10:35:52-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-9 10:35:52-debug: Unregister final
+2024-5-9 10:35:52-debug: Unregister test01
+2024-5-9 10:35:52-debug: Unregister test02
+2024-5-9 10:35:52-debug: Unregister HelloWorld
+2024-5-9 10:35:52-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-9 10:35:52-debug: Unregister test03
+2024-5-9 10:35:52-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-5-9 10:35:52-debug: Invalidating 'pack:///chunks/b1/b125f9d2b5256259980950bcace2367b045770e5.js'
+2024-5-9 10:35:52-debug: Invalidating 'pack:///chunks/77/77a171dde9e840d4d817e7f6326d7cc01d47fada.js'
+2024-5-9 10:35:52-debug: Invalidating 'pack:///chunks/d4/d40f1cbda380e30314acd87b1c33fedd2f0e825f.js'
+2024-5-9 10:35:52-debug: Invalidating 'pack:///chunks/0c/0c8a847e84c605d1566ecd4d85f683a4b4bf35db.js'
+2024-5-9 10:35:52-debug: Invalidating 'pack:///chunks/ea/ead9e33228c2fcb690c0cc9f702eef0807622046.js'
+2024-5-9 10:35:52-debug: Invalidating 'pack:///chunks/ec/ec51712dbe2bd3beba20a1306bd60cc6c4e2d51e.js'
+2024-5-9 10:35:52-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-9 10:35:52-debug: [[Executor]] Module "pack:///chunks/b1/b125f9d2b5256259980950bcace2367b045770e5.js" loaded.
+2024-5-9 10:35:52-debug: D:\Courses\Cocos\Cocos Projects\Test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js resolved to D:\Courses\Cocos\Cocos Projects\Test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js is not in module cache!
+2024-5-9 10:35:52-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-9 10:35:52-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 10:35:52-debug: D:\Courses\Cocos\Cocos Projects\Test\temp\programming\packer-driver\targets\editor\chunks\77\77a171dde9e840d4d817e7f6326d7cc01d47fada.js resolved to D:\Courses\Cocos\Cocos Projects\Test\temp\programming\packer-driver\targets\editor\chunks\77\77a171dde9e840d4d817e7f6326d7cc01d47fada.js is not in module cache!
+2024-5-9 10:35:52-debug: [[Executor]] Register final
+2024-5-9 10:35:52-debug: [[Executor]] Module "pack:///chunks/77/77a171dde9e840d4d817e7f6326d7cc01d47fada.js" loaded.
+2024-5-9 10:35:52-debug: [[Executor]] Register test01
+2024-5-9 10:35:52-debug: [[Executor]] Module "pack:///chunks/ea/ead9e33228c2fcb690c0cc9f702eef0807622046.js" loaded.
+2024-5-9 10:35:52-debug: [[Executor]] Register test02
+2024-5-9 10:35:52-debug: [[Executor]] Module "pack:///chunks/d4/d40f1cbda380e30314acd87b1c33fedd2f0e825f.js" loaded.
+2024-5-9 10:35:52-debug: [[Executor]] Module "pack:///chunks/0c/0c8a847e84c605d1566ecd4d85f683a4b4bf35db.js" loaded.
+2024-5-9 10:35:52-debug: [[Executor]] Register test03
+2024-5-9 10:35:52-debug: [[Executor]] Register HelloWorld
+2024-5-9 10:35:52-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 10:35:52-debug: [[Executor]] Module "pack:///chunks/ec/ec51712dbe2bd3beba20a1306bd60cc6c4e2d51e.js" loaded.
+2024-5-9 10:35:52-debug: Query asset bundle start0%
+2024-5-9 10:35:52-debug: // ---- build task Query asset bundle ----
+2024-5-9 10:35:52-debug: Incremental keys: 
+2024-5-9 10:35:52-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2024-5-9 10:35:52-debug: // ---- build task Query asset bundle ---- (26ms)
+2024-5-9 10:35:52-debug: run build task Query asset bundle success in 26 ms √5%
+2024-5-9 10:35:52-debug: [Build Memory track]: Query asset bundle start:271.72MB, end 271.83MB, increase: 108.14KB
+2024-5-9 10:35:52-debug: // ---- build task Query asset bundle ----
+2024-5-9 10:35:52-debug: Query asset bundle start5%
+2024-5-9 10:35:52-debug: run build task Query asset bundle success in 0 ms √10%
+2024-5-9 10:35:52-debug: [Build Memory track]: Query asset bundle start:271.84MB, end 271.85MB, increase: 10.66KB
+2024-5-9 10:35:52-debug: // ---- build task Sort some build options to settings.json ----
+2024-5-9 10:35:52-debug: Sort some build options to settings.json start10%
+2024-5-9 10:35:52-debug: // ---- build task Sort some build options to settings.json ---- (1ms)
+2024-5-9 10:35:52-debug: run build task Sort some build options to settings.json success in 1 ms √12%
+2024-5-9 10:35:52-debug: Fill script data to settings start12%
+2024-5-9 10:35:52-debug: [Build Memory track]: Sort some build options to settings.json start:271.87MB, end 271.93MB, increase: 60.15KB
+2024-5-9 10:35:52-debug: // ---- build task Fill script data to settings ----
+2024-5-9 10:35:52-debug: // ---- build task Fill script data to settings ---- (1ms)
+2024-5-9 10:35:52-debug: run build task Fill script data to settings success in 1 ms √13%
+2024-5-9 10:35:52-debug: [Build Memory track]: Fill script data to settings start:271.94MB, end 271.96MB, increase: 17.97KB
+2024-5-9 10:35:52-debug: // ---- build task Sort some build options to settings.json ----
+2024-5-9 10:35:52-debug: Sort some build options to settings.json start13%
+2024-5-9 10:35:52-debug: // ---- build task Sort some build options to settings.json ---- (6ms)
+2024-5-9 10:35:52-debug: [Build Memory track]: Sort some build options to settings.json start:271.98MB, end 272.10MB, increase: 124.13KB
+2024-5-9 10:35:52-debug: run build task Sort some build options to settings.json success in 6 ms √15%
+2024-5-9 10:36:05-debug: programming:execute-script (7ms)
+2024-5-9 10:36:06-debug: Query all assets info in project
+2024-5-9 10:36:06-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-9 10:36:06-debug:   Number of all scripts: 6
+2024-5-9 10:36:06-debug:   Number of other assets: 433
+2024-5-9 10:36:06-debug:   Number of all scenes: 6
+2024-5-9 10:36:06-debug: reload all scripts.
+2024-5-9 10:36:06-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-9 10:36:06-debug: Unregister DebugViewRuntimeControl
+2024-5-9 10:36:06-debug: Unregister test01
+2024-5-9 10:36:06-debug: Unregister test03
+2024-5-9 10:36:06-debug: Unregister final
+2024-5-9 10:36:06-debug: Unregister test02
+2024-5-9 10:36:06-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-9 10:36:06-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-5-9 10:36:06-debug: Invalidating 'pack:///chunks/b1/b125f9d2b5256259980950bcace2367b045770e5.js'
+2024-5-9 10:36:06-debug: Unregister HelloWorld
+2024-5-9 10:36:06-debug: Invalidating 'pack:///chunks/77/77a171dde9e840d4d817e7f6326d7cc01d47fada.js'
+2024-5-9 10:36:06-debug: Invalidating 'pack:///chunks/d4/d40f1cbda380e30314acd87b1c33fedd2f0e825f.js'
+2024-5-9 10:36:06-debug: Invalidating 'pack:///chunks/ea/ead9e33228c2fcb690c0cc9f702eef0807622046.js'
+2024-5-9 10:36:06-debug: Invalidating 'pack:///chunks/0c/0c8a847e84c605d1566ecd4d85f683a4b4bf35db.js'
+2024-5-9 10:36:06-debug: Invalidating 'pack:///chunks/ec/ec51712dbe2bd3beba20a1306bd60cc6c4e2d51e.js'
+2024-5-9 10:36:06-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-9 10:36:06-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 10:36:06-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-9 10:36:06-debug: [[Executor]] Module "pack:///chunks/b1/b125f9d2b5256259980950bcace2367b045770e5.js" loaded.
+2024-5-9 10:36:06-debug: [[Executor]] Module "pack:///chunks/77/77a171dde9e840d4d817e7f6326d7cc01d47fada.js" loaded.
+2024-5-9 10:36:06-debug: [[Executor]] Register test01
+2024-5-9 10:36:06-debug: [[Executor]] Module "pack:///chunks/ea/ead9e33228c2fcb690c0cc9f702eef0807622046.js" loaded.
+2024-5-9 10:36:06-debug: [[Executor]] Register final
+2024-5-9 10:36:06-debug: [[Executor]] Register test02
+2024-5-9 10:36:06-debug: [[Executor]] Module "pack:///chunks/d4/d40f1cbda380e30314acd87b1c33fedd2f0e825f.js" loaded.
+2024-5-9 10:36:06-debug: [[Executor]] Module "pack:///chunks/0c/0c8a847e84c605d1566ecd4d85f683a4b4bf35db.js" loaded.
+2024-5-9 10:36:06-debug: [[Executor]] Register test03
+2024-5-9 10:36:06-debug: [[Executor]] Register HelloWorld
+2024-5-9 10:36:06-debug: [[Executor]] Module "pack:///chunks/ec/ec51712dbe2bd3beba20a1306bd60cc6c4e2d51e.js" loaded.
+2024-5-9 10:36:06-debug: Incremental keys: 
+2024-5-9 10:36:06-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 10:36:06-debug: Query asset bundle start0%
+2024-5-9 10:36:06-debug: // ---- build task Query asset bundle ----
+2024-5-9 10:36:06-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2024-5-9 10:36:06-debug: // ---- build task Query asset bundle ---- (23ms)
+2024-5-9 10:36:06-debug: [Build Memory track]: Query asset bundle start:274.16MB, end 275.94MB, increase: 1.78MB
+2024-5-9 10:36:06-debug: run build task Query asset bundle success in 23 ms √5%
+2024-5-9 10:36:06-debug: // ---- build task Query asset bundle ----
+2024-5-9 10:36:06-debug: Query asset bundle start5%
+2024-5-9 10:36:06-debug: [Build Memory track]: Query asset bundle start:275.95MB, end 275.94MB, increase: -8.44KB
+2024-5-9 10:36:06-debug: run build task Query asset bundle success in 0 ms √10%
+2024-5-9 10:36:06-debug: Sort some build options to settings.json start10%
+2024-5-9 10:36:06-debug: // ---- build task Sort some build options to settings.json ----
+2024-5-9 10:36:06-debug: // ---- build task Sort some build options to settings.json ---- (1ms)
+2024-5-9 10:36:06-debug: run build task Sort some build options to settings.json success in 1 ms √12%
+2024-5-9 10:36:06-debug: [Build Memory track]: Sort some build options to settings.json start:274.17MB, end 274.19MB, increase: 19.28KB
+2024-5-9 10:36:06-debug: // ---- build task Fill script data to settings ----
+2024-5-9 10:36:06-debug: Fill script data to settings start12%
+2024-5-9 10:36:06-debug: // ---- build task Sort some build options to settings.json ----
+2024-5-9 10:36:06-debug: [Build Memory track]: Fill script data to settings start:274.20MB, end 274.22MB, increase: 11.38KB
+2024-5-9 10:36:06-debug: run build task Fill script data to settings success in 0 ms √13%
+2024-5-9 10:36:06-debug: Sort some build options to settings.json start13%
+2024-5-9 10:36:06-debug: // ---- build task Sort some build options to settings.json ---- (3ms)
+2024-5-9 10:36:06-debug: run build task Sort some build options to settings.json success in 3 ms √15%
+2024-5-9 10:36:06-debug: [Build Memory track]: Sort some build options to settings.json start:274.23MB, end 274.35MB, increase: 118.12KB
+2024-5-9 10:36:22-debug: programming:execute-script (7ms)
+2024-5-9 10:36:23-debug: Query all assets info in project
+2024-5-9 10:36:23-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-9 10:36:23-debug:   Number of other assets: 433
+2024-5-9 10:36:23-debug:   Number of all scenes: 6
+2024-5-9 10:36:23-debug:   Number of all scripts: 6
+2024-5-9 10:36:23-debug: reload all scripts.
+2024-5-9 10:36:23-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-9 10:36:23-debug: Unregister DebugViewRuntimeControl
+2024-5-9 10:36:23-debug: Unregister final
+2024-5-9 10:36:23-debug: Unregister test01
+2024-5-9 10:36:23-debug: Unregister test02
+2024-5-9 10:36:23-debug: Unregister HelloWorld
+2024-5-9 10:36:23-debug: Unregister test03
+2024-5-9 10:36:23-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-9 10:36:23-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-5-9 10:36:23-debug: Invalidating 'pack:///chunks/b1/b125f9d2b5256259980950bcace2367b045770e5.js'
+2024-5-9 10:36:23-debug: Invalidating 'pack:///chunks/0c/0c8a847e84c605d1566ecd4d85f683a4b4bf35db.js'
+2024-5-9 10:36:23-debug: Invalidating 'pack:///chunks/d4/d40f1cbda380e30314acd87b1c33fedd2f0e825f.js'
+2024-5-9 10:36:23-debug: Invalidating 'pack:///chunks/ea/ead9e33228c2fcb690c0cc9f702eef0807622046.js'
+2024-5-9 10:36:23-debug: Invalidating 'pack:///chunks/77/77a171dde9e840d4d817e7f6326d7cc01d47fada.js'
+2024-5-9 10:36:23-debug: Invalidating 'pack:///chunks/ec/ec51712dbe2bd3beba20a1306bd60cc6c4e2d51e.js'
+2024-5-9 10:36:23-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-9 10:36:23-debug: [[Executor]] Module "pack:///chunks/b1/b125f9d2b5256259980950bcace2367b045770e5.js" loaded.
+2024-5-9 10:36:23-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-9 10:36:23-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 10:36:23-debug: [[Executor]] Register final
+2024-5-9 10:36:23-debug: [[Executor]] Module "pack:///chunks/77/77a171dde9e840d4d817e7f6326d7cc01d47fada.js" loaded.
+2024-5-9 10:36:23-debug: [[Executor]] Register test02
+2024-5-9 10:36:23-debug: [[Executor]] Module "pack:///chunks/ea/ead9e33228c2fcb690c0cc9f702eef0807622046.js" loaded.
+2024-5-9 10:36:23-debug: [[Executor]] Register test01
+2024-5-9 10:36:23-debug: [[Executor]] Module "pack:///chunks/d4/d40f1cbda380e30314acd87b1c33fedd2f0e825f.js" loaded.
+2024-5-9 10:36:23-debug: [[Executor]] Module "pack:///chunks/0c/0c8a847e84c605d1566ecd4d85f683a4b4bf35db.js" loaded.
+2024-5-9 10:36:23-debug: [[Executor]] Register test03
+2024-5-9 10:36:23-debug: [[Executor]] Register HelloWorld
+2024-5-9 10:36:23-debug: [[Executor]] Module "pack:///chunks/ec/ec51712dbe2bd3beba20a1306bd60cc6c4e2d51e.js" loaded.
+2024-5-9 10:36:23-debug: Incremental keys: 
+2024-5-9 10:36:23-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 10:36:23-debug: Query asset bundle start0%
+2024-5-9 10:36:23-debug: // ---- build task Query asset bundle ----
+2024-5-9 10:36:23-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2024-5-9 10:36:23-debug: // ---- build task Query asset bundle ---- (22ms)
+2024-5-9 10:36:23-debug: run build task Query asset bundle success in 22 ms √5%
+2024-5-9 10:36:23-debug: // ---- build task Query asset bundle ----
+2024-5-9 10:36:23-debug: [Build Memory track]: Query asset bundle start:277.11MB, end 277.28MB, increase: 169.07KB
+2024-5-9 10:36:23-debug: Query asset bundle start5%
+2024-5-9 10:36:23-debug: run build task Query asset bundle success in 0 ms √10%
+2024-5-9 10:36:23-debug: [Build Memory track]: Query asset bundle start:277.29MB, end 277.30MB, increase: 15.18KB
+2024-5-9 10:36:23-debug: // ---- build task Sort some build options to settings.json ----
+2024-5-9 10:36:23-debug: Sort some build options to settings.json start10%
+2024-5-9 10:36:23-debug: // ---- build task Sort some build options to settings.json ---- (1ms)
+2024-5-9 10:36:23-debug: run build task Sort some build options to settings.json success in 1 ms √12%
+2024-5-9 10:36:23-debug: Fill script data to settings start12%
+2024-5-9 10:36:23-debug: // ---- build task Fill script data to settings ----
+2024-5-9 10:36:23-debug: [Build Memory track]: Sort some build options to settings.json start:277.32MB, end 277.34MB, increase: 18.59KB
+2024-5-9 10:36:23-debug: Sort some build options to settings.json start13%
+2024-5-9 10:36:23-debug: run build task Fill script data to settings success in 1 ms √13%
+2024-5-9 10:36:23-debug: // ---- build task Fill script data to settings ---- (1ms)
+2024-5-9 10:36:23-debug: [Build Memory track]: Fill script data to settings start:277.35MB, end 277.37MB, increase: 18.93KB
+2024-5-9 10:36:23-debug: // ---- build task Sort some build options to settings.json ----
+2024-5-9 10:36:23-debug: // ---- build task Sort some build options to settings.json ---- (4ms)
+2024-5-9 10:36:23-debug: run build task Sort some build options to settings.json success in 4 ms √15%
+2024-5-9 10:36:23-debug: [Build Memory track]: Sort some build options to settings.json start:277.39MB, end 277.50MB, increase: 119.19KB
+2024-5-9 10:36:42-debug: programming:execute-script (8ms)
+2024-5-9 10:36:44-debug: Query all assets info in project
+2024-5-9 10:36:44-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-9 10:36:44-debug:   Number of all scenes: 6
+2024-5-9 10:36:44-debug:   Number of other assets: 433
+2024-5-9 10:36:44-debug:   Number of all scripts: 6
+2024-5-9 10:36:44-debug: reload all scripts.
+2024-5-9 10:36:44-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-9 10:36:44-debug: Unregister DebugViewRuntimeControl
+2024-5-9 10:36:44-debug: Unregister final
+2024-5-9 10:36:44-debug: Unregister test01
+2024-5-9 10:36:44-debug: Unregister HelloWorld
+2024-5-9 10:36:44-debug: Unregister test03
+2024-5-9 10:36:44-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-9 10:36:44-debug: Unregister test02
+2024-5-9 10:36:44-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-5-9 10:36:44-debug: Invalidating 'pack:///chunks/b1/b125f9d2b5256259980950bcace2367b045770e5.js'
+2024-5-9 10:36:44-debug: Invalidating 'pack:///chunks/77/77a171dde9e840d4d817e7f6326d7cc01d47fada.js'
+2024-5-9 10:36:44-debug: Invalidating 'pack:///chunks/ea/ead9e33228c2fcb690c0cc9f702eef0807622046.js'
+2024-5-9 10:36:44-debug: Invalidating 'pack:///chunks/ec/ec51712dbe2bd3beba20a1306bd60cc6c4e2d51e.js'
+2024-5-9 10:36:44-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-9 10:36:44-debug: Invalidating 'pack:///chunks/d4/d40f1cbda380e30314acd87b1c33fedd2f0e825f.js'
+2024-5-9 10:36:44-debug: Invalidating 'pack:///chunks/0c/0c8a847e84c605d1566ecd4d85f683a4b4bf35db.js'
+2024-5-9 10:36:44-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 10:36:44-debug: [[Executor]] Module "pack:///chunks/b1/b125f9d2b5256259980950bcace2367b045770e5.js" loaded.
+2024-5-9 10:36:44-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-9 10:36:44-debug: [[Executor]] Register final
+2024-5-9 10:36:44-debug: [[Executor]] Register test01
+2024-5-9 10:36:44-debug: [[Executor]] Module "pack:///chunks/ea/ead9e33228c2fcb690c0cc9f702eef0807622046.js" loaded.
+2024-5-9 10:36:44-debug: [[Executor]] Module "pack:///chunks/d4/d40f1cbda380e30314acd87b1c33fedd2f0e825f.js" loaded.
+2024-5-9 10:36:44-debug: [[Executor]] Module "pack:///chunks/77/77a171dde9e840d4d817e7f6326d7cc01d47fada.js" loaded.
+2024-5-9 10:36:44-debug: [[Executor]] Module "pack:///chunks/0c/0c8a847e84c605d1566ecd4d85f683a4b4bf35db.js" loaded.
+2024-5-9 10:36:44-debug: [[Executor]] Register test02
+2024-5-9 10:36:44-debug: [[Executor]] Register test03
+2024-5-9 10:36:44-debug: [[Executor]] Register HelloWorld
+2024-5-9 10:36:44-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 10:36:44-debug: Incremental keys: 
+2024-5-9 10:36:44-debug: [[Executor]] Module "pack:///chunks/ec/ec51712dbe2bd3beba20a1306bd60cc6c4e2d51e.js" loaded.
+2024-5-9 10:36:44-debug: Query asset bundle start0%
+2024-5-9 10:36:44-debug: // ---- build task Query asset bundle ----
+2024-5-9 10:36:44-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2024-5-9 10:36:44-debug: // ---- build task Query asset bundle ---- (27ms)
+2024-5-9 10:36:44-debug: run build task Query asset bundle success in 27 ms √5%
+2024-5-9 10:36:44-debug: // ---- build task Query asset bundle ----
+2024-5-9 10:36:44-debug: [Build Memory track]: Query asset bundle start:279.15MB, end 279.01MB, increase: -139.94KB
+2024-5-9 10:36:44-debug: Query asset bundle start5%
+2024-5-9 10:36:44-debug: // ---- build task Query asset bundle ---- (1ms)
+2024-5-9 10:36:44-debug: [Build Memory track]: Query asset bundle start:279.03MB, end 279.04MB, increase: 15.12KB
+2024-5-9 10:36:44-debug: Sort some build options to settings.json start10%
+2024-5-9 10:36:44-debug: run build task Query asset bundle success in 1 ms √10%
+2024-5-9 10:36:44-debug: // ---- build task Sort some build options to settings.json ----
+2024-5-9 10:36:44-debug: // ---- build task Sort some build options to settings.json ---- (1ms)
+2024-5-9 10:36:44-debug: run build task Sort some build options to settings.json success in 1 ms √12%
+2024-5-9 10:36:44-debug: Fill script data to settings start12%
+2024-5-9 10:36:44-debug: [Build Memory track]: Sort some build options to settings.json start:279.06MB, end 279.08MB, increase: 18.20KB
+2024-5-9 10:36:44-debug: // ---- build task Fill script data to settings ----
+2024-5-9 10:36:44-debug: // ---- build task Fill script data to settings ---- (1ms)
+2024-5-9 10:36:44-debug: run build task Fill script data to settings success in 1 ms √13%
+2024-5-9 10:36:44-debug: [Build Memory track]: Fill script data to settings start:279.09MB, end 279.11MB, increase: 18.86KB
+2024-5-9 10:36:44-debug: Sort some build options to settings.json start13%
+2024-5-9 10:36:44-debug: // ---- build task Sort some build options to settings.json ----
+2024-5-9 10:36:44-debug: run build task Sort some build options to settings.json success in 6 ms √15%
+2024-5-9 10:36:44-debug: [Build Memory track]: Sort some build options to settings.json start:279.12MB, end 279.24MB, increase: 117.44KB
+2024-5-9 10:36:44-debug: // ---- build task Sort some build options to settings.json ---- (6ms)
+2024-5-9 10:37:13-debug: programming:execute-script (8ms)
+2024-5-9 10:37:14-debug: Query all assets info in project
+2024-5-9 10:37:14-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-9 10:37:14-debug:   Number of all scenes: 6
+2024-5-9 10:37:14-debug:   Number of all scripts: 6
+2024-5-9 10:37:14-debug:   Number of other assets: 433
+2024-5-9 10:37:14-debug: reload all scripts.
+2024-5-9 10:37:14-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-9 10:37:14-debug: Unregister final
+2024-5-9 10:37:14-debug: Unregister DebugViewRuntimeControl
+2024-5-9 10:37:14-debug: Unregister test01
+2024-5-9 10:37:14-debug: Unregister test03
+2024-5-9 10:37:14-debug: Unregister HelloWorld
+2024-5-9 10:37:14-debug: Unregister test02
+2024-5-9 10:37:14-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-9 10:37:14-debug: Invalidating 'pack:///chunks/b1/b125f9d2b5256259980950bcace2367b045770e5.js'
+2024-5-9 10:37:14-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-5-9 10:37:14-debug: Invalidating 'pack:///chunks/ea/ead9e33228c2fcb690c0cc9f702eef0807622046.js'
+2024-5-9 10:37:14-debug: Invalidating 'pack:///chunks/77/77a171dde9e840d4d817e7f6326d7cc01d47fada.js'
+2024-5-9 10:37:14-debug: Invalidating 'pack:///chunks/ec/ec51712dbe2bd3beba20a1306bd60cc6c4e2d51e.js'
+2024-5-9 10:37:14-debug: Invalidating 'pack:///chunks/d4/d40f1cbda380e30314acd87b1c33fedd2f0e825f.js'
+2024-5-9 10:37:14-debug: Invalidating 'pack:///chunks/0c/0c8a847e84c605d1566ecd4d85f683a4b4bf35db.js'
+2024-5-9 10:37:14-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 10:37:14-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-9 10:37:14-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-9 10:37:14-debug: [[Executor]] Module "pack:///chunks/b1/b125f9d2b5256259980950bcace2367b045770e5.js" loaded.
+2024-5-9 10:37:14-debug: [[Executor]] Module "pack:///chunks/77/77a171dde9e840d4d817e7f6326d7cc01d47fada.js" loaded.
+2024-5-9 10:37:14-debug: [[Executor]] Register final
+2024-5-9 10:37:14-debug: [[Executor]] Register test01
+2024-5-9 10:37:14-debug: [[Executor]] Module "pack:///chunks/ea/ead9e33228c2fcb690c0cc9f702eef0807622046.js" loaded.
+2024-5-9 10:37:14-debug: [[Executor]] Module "pack:///chunks/d4/d40f1cbda380e30314acd87b1c33fedd2f0e825f.js" loaded.
+2024-5-9 10:37:14-debug: [[Executor]] Register test03
+2024-5-9 10:37:14-debug: [[Executor]] Register test02
+2024-5-9 10:37:14-debug: [[Executor]] Module "pack:///chunks/0c/0c8a847e84c605d1566ecd4d85f683a4b4bf35db.js" loaded.
+2024-5-9 10:37:14-debug: [[Executor]] Register HelloWorld
+2024-5-9 10:37:14-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 10:37:14-debug: Incremental keys: 
+2024-5-9 10:37:14-debug: [[Executor]] Module "pack:///chunks/ec/ec51712dbe2bd3beba20a1306bd60cc6c4e2d51e.js" loaded.
+2024-5-9 10:37:14-debug: Query asset bundle start0%
+2024-5-9 10:37:14-debug: // ---- build task Query asset bundle ----
+2024-5-9 10:37:14-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2024-5-9 10:37:14-debug: // ---- build task Query asset bundle ---- (23ms)
+2024-5-9 10:37:14-debug: run build task Query asset bundle success in 23 ms √5%
+2024-5-9 10:37:14-debug: [Build Memory track]: Query asset bundle start:281.11MB, end 282.81MB, increase: 1.70MB
+2024-5-9 10:37:14-debug: // ---- build task Query asset bundle ----
+2024-5-9 10:37:14-debug: Query asset bundle start5%
+2024-5-9 10:37:14-debug: [Build Memory track]: Query asset bundle start:282.82MB, end 282.78MB, increase: -40.80KB
+2024-5-9 10:37:14-debug: run build task Query asset bundle success in 0 ms √10%
+2024-5-9 10:37:14-debug: Sort some build options to settings.json start10%
+2024-5-9 10:37:14-debug: // ---- build task Sort some build options to settings.json ----
+2024-5-9 10:37:14-debug: // ---- build task Sort some build options to settings.json ---- (1ms)
+2024-5-9 10:37:14-debug: run build task Sort some build options to settings.json success in 1 ms √12%
+2024-5-9 10:37:14-debug: Fill script data to settings start12%
+2024-5-9 10:37:14-debug: [Build Memory track]: Sort some build options to settings.json start:282.80MB, end 282.82MB, increase: 20.72KB
+2024-5-9 10:37:14-debug: // ---- build task Fill script data to settings ----
+2024-5-9 10:37:14-debug: // ---- build task Fill script data to settings ---- (2ms)
+2024-5-9 10:37:14-debug: run build task Fill script data to settings success in 2 ms √13%
+2024-5-9 10:37:14-debug: [Build Memory track]: Fill script data to settings start:281.08MB, end 281.10MB, increase: 18.81KB
+2024-5-9 10:37:14-debug: Sort some build options to settings.json start13%
+2024-5-9 10:37:14-debug: // ---- build task Sort some build options to settings.json ----
+2024-5-9 10:37:14-debug: // ---- build task Sort some build options to settings.json ---- (4ms)
+2024-5-9 10:37:14-debug: run build task Sort some build options to settings.json success in 4 ms √15%
+2024-5-9 10:37:14-debug: [Build Memory track]: Sort some build options to settings.json start:281.11MB, end 281.23MB, increase: 117.43KB
+2024-5-9 10:37:35-debug: refresh db internal success
+2024-5-9 10:37:35-debug: refresh db assets success
+2024-5-9 10:37:35-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 10:37:35-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 10:37:35-debug: asset-db:refresh-all-database (119ms)
+2024-5-9 10:37:35-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 10:37:35-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 11:08:32-debug: refresh db internal success
+2024-5-9 11:08:32-debug: %cImport%c: D:\Courses\Cocos\Cocos Projects\Test\assets\Missions\final\final.tsbackground: #aaff85; color: #000;color: #000;
+2024-5-9 11:08:32-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 11:08:32-debug: refresh db assets success
+2024-5-9 11:08:32-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 11:08:32-debug: asset-db:refresh-all-database (111ms)
+2024-5-9 11:08:32-debug: asset-db:worker-effect-data-processing (3ms)
+2024-5-9 11:08:32-debug: asset-db-hook-engine-extends-afterRefresh (3ms)
+2024-5-9 11:08:37-debug: refresh db internal success
+2024-5-9 11:08:37-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 11:08:37-debug: refresh db assets success
+2024-5-9 11:08:37-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 11:08:37-debug: asset-db:refresh-all-database (112ms)
+2024-5-9 11:08:37-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 11:08:37-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 11:08:38-debug: refresh db internal success
+2024-5-9 11:08:38-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 11:08:38-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 11:08:38-debug: refresh db assets success
+2024-5-9 11:08:38-debug: asset-db:refresh-all-database (115ms)
+2024-5-9 11:08:38-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 11:08:38-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 11:11:03-debug: refresh db internal success
+2024-5-9 11:11:03-debug: refresh db assets success
+2024-5-9 11:11:03-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 11:11:03-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 11:11:03-debug: asset-db:refresh-all-database (116ms)
+2024-5-9 11:11:03-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 11:11:03-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 11:36:56-debug: refresh db internal success
+2024-5-9 11:36:56-debug: refresh db assets success
+2024-5-9 11:36:56-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 11:36:56-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 11:36:56-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 11:36:56-debug: asset-db:refresh-all-database (114ms)
+2024-5-9 11:36:56-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 11:36:58-debug: programming:execute-script (16ms)
+2024-5-9 11:37:00-debug: Query all assets info in project
+2024-5-9 11:37:00-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-9 11:37:00-debug:   Number of all scenes: 6
+2024-5-9 11:37:00-debug:   Number of all scripts: 6
+2024-5-9 11:37:00-debug:   Number of other assets: 433
+2024-5-9 11:37:00-debug: reload all scripts.
+2024-5-9 11:37:00-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-9 11:37:00-debug: Unregister DebugViewRuntimeControl
+2024-5-9 11:37:00-debug: Unregister test01
+2024-5-9 11:37:00-debug: Unregister final
+2024-5-9 11:37:00-debug: Unregister test03
+2024-5-9 11:37:00-debug: Unregister test02
+2024-5-9 11:37:00-debug: Unregister HelloWorld
+2024-5-9 11:37:00-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-9 11:37:00-debug: Invalidating 'pack:///chunks/b1/b125f9d2b5256259980950bcace2367b045770e5.js'
+2024-5-9 11:37:00-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-5-9 11:37:00-debug: Invalidating 'pack:///chunks/77/77a171dde9e840d4d817e7f6326d7cc01d47fada.js'
+2024-5-9 11:37:00-debug: Invalidating 'pack:///chunks/d4/d40f1cbda380e30314acd87b1c33fedd2f0e825f.js'
+2024-5-9 11:37:00-debug: Invalidating 'pack:///chunks/ea/ead9e33228c2fcb690c0cc9f702eef0807622046.js'
+2024-5-9 11:37:00-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-9 11:37:00-debug: Invalidating 'pack:///chunks/ec/ec51712dbe2bd3beba20a1306bd60cc6c4e2d51e.js'
+2024-5-9 11:37:00-debug: Invalidating 'pack:///chunks/0c/0c8a847e84c605d1566ecd4d85f683a4b4bf35db.js'
+2024-5-9 11:37:00-debug: D:\Courses\Cocos\Cocos Projects\Test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js resolved to D:\Courses\Cocos\Cocos Projects\Test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js is not in module cache!
+2024-5-9 11:37:00-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 11:37:00-debug: [[Executor]] Module "pack:///chunks/b1/b125f9d2b5256259980950bcace2367b045770e5.js" loaded.
+2024-5-9 11:37:00-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-9 11:37:00-debug: D:\Courses\Cocos\Cocos Projects\Test\temp\programming\packer-driver\targets\editor\chunks\77\77a171dde9e840d4d817e7f6326d7cc01d47fada.js resolved to D:\Courses\Cocos\Cocos Projects\Test\temp\programming\packer-driver\targets\editor\chunks\77\77a171dde9e840d4d817e7f6326d7cc01d47fada.js is not in module cache!
+2024-5-9 11:37:00-debug: [[Executor]] Register test01
+2024-5-9 11:37:00-debug: [[Executor]] Module "pack:///chunks/77/77a171dde9e840d4d817e7f6326d7cc01d47fada.js" loaded.
+2024-5-9 11:37:00-debug: [[Executor]] Module "pack:///chunks/ea/ead9e33228c2fcb690c0cc9f702eef0807622046.js" loaded.
+2024-5-9 11:37:00-debug: [[Executor]] Register final
+2024-5-9 11:37:00-debug: [[Executor]] Register test02
+2024-5-9 11:37:00-debug: [[Executor]] Module "pack:///chunks/d4/d40f1cbda380e30314acd87b1c33fedd2f0e825f.js" loaded.
+2024-5-9 11:37:00-debug: [[Executor]] Register test03
+2024-5-9 11:37:00-debug: [[Executor]] Module "pack:///chunks/0c/0c8a847e84c605d1566ecd4d85f683a4b4bf35db.js" loaded.
+2024-5-9 11:37:00-debug: [[Executor]] Module "pack:///chunks/ec/ec51712dbe2bd3beba20a1306bd60cc6c4e2d51e.js" loaded.
+2024-5-9 11:37:00-debug: [[Executor]] Register HelloWorld
+2024-5-9 11:37:00-debug: Incremental keys: 
+2024-5-9 11:37:00-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 11:37:00-debug: // ---- build task Query asset bundle ----
+2024-5-9 11:37:00-debug: Query asset bundle start0%
+2024-5-9 11:37:00-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2024-5-9 11:37:00-debug: // ---- build task Query asset bundle ---- (32ms)
+2024-5-9 11:37:00-debug: run build task Query asset bundle success in 32 ms √5%
+2024-5-9 11:37:00-debug: [Build Memory track]: Query asset bundle start:286.83MB, end 286.97MB, increase: 149.16KB
+2024-5-9 11:37:00-debug: // ---- build task Query asset bundle ----
+2024-5-9 11:37:00-debug: Query asset bundle start5%
+2024-5-9 11:37:00-debug: // ---- build task Query asset bundle ---- (1ms)
+2024-5-9 11:37:00-debug: run build task Query asset bundle success in 1 ms √10%
+2024-5-9 11:37:00-debug: [Build Memory track]: Query asset bundle start:286.99MB, end 287.00MB, increase: 15.12KB
+2024-5-9 11:37:00-debug: // ---- build task Sort some build options to settings.json ----
+2024-5-9 11:37:00-debug: Sort some build options to settings.json start10%
+2024-5-9 11:37:00-debug: // ---- build task Sort some build options to settings.json ---- (1ms)
+2024-5-9 11:37:00-debug: [Build Memory track]: Sort some build options to settings.json start:287.02MB, end 287.04MB, increase: 19.12KB
+2024-5-9 11:37:00-debug: Fill script data to settings start12%
+2024-5-9 11:37:00-debug: // ---- build task Fill script data to settings ----
+2024-5-9 11:37:00-debug: run build task Sort some build options to settings.json success in 1 ms √12%
+2024-5-9 11:37:00-debug: // ---- build task Fill script data to settings ---- (1ms)
+2024-5-9 11:37:00-debug: run build task Fill script data to settings success in 1 ms √13%
+2024-5-9 11:37:00-debug: [Build Memory track]: Fill script data to settings start:287.05MB, end 287.07MB, increase: 16.45KB
+2024-5-9 11:37:00-debug: // ---- build task Sort some build options to settings.json ----
+2024-5-9 11:37:00-debug: Sort some build options to settings.json start13%
+2024-5-9 11:37:00-debug: // ---- build task Sort some build options to settings.json ---- (4ms)
+2024-5-9 11:37:00-debug: run build task Sort some build options to settings.json success in 4 ms √15%
+2024-5-9 11:37:00-debug: [Build Memory track]: Sort some build options to settings.json start:287.08MB, end 287.21MB, increase: 129.18KB
+2024-5-9 11:38:44-debug: refresh db internal success
+2024-5-9 11:38:44-debug: refresh db assets success
+2024-5-9 11:38:44-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 11:38:44-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 11:38:44-debug: asset-db:refresh-all-database (115ms)
+2024-5-9 11:38:44-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 11:38:44-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 11:39:07-debug: refresh db internal success
+2024-5-9 11:39:07-debug: refresh db assets success
+2024-5-9 11:39:07-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 11:39:07-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 11:39:07-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 11:39:07-debug: asset-db:refresh-all-database (116ms)
+2024-5-9 11:39:07-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 11:39:24-debug: refresh db internal success
+2024-5-9 11:39:24-debug: refresh db assets success
+2024-5-9 11:39:24-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 11:39:24-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 11:39:24-debug: asset-db:refresh-all-database (117ms)
+2024-5-9 11:39:24-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 11:39:24-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 11:41:59-debug: refresh db internal success
+2024-5-9 11:41:59-debug: refresh db assets success
+2024-5-9 11:41:59-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 11:41:59-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 11:41:59-debug: asset-db:refresh-all-database (115ms)
+2024-5-9 11:41:59-debug: asset-db:worker-effect-data-processing (2ms)
+2024-5-9 11:41:59-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 11:50:23-debug: refresh db internal success
+2024-5-9 11:50:23-debug: refresh db assets success
+2024-5-9 11:50:23-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 11:50:23-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 11:50:23-debug: asset-db:refresh-all-database (115ms)
+2024-5-9 11:50:23-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 11:50:23-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 11:56:39-debug: refresh db internal success
+2024-5-9 11:56:39-debug: refresh db assets success
+2024-5-9 11:56:39-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 11:56:39-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 11:56:39-debug: asset-db:refresh-all-database (107ms)
+2024-5-9 11:56:39-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 11:56:39-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 12:06:09-debug: refresh db internal success
+2024-5-9 12:06:09-debug: refresh db assets success
+2024-5-9 12:06:09-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 12:06:09-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 12:06:09-debug: asset-db:refresh-all-database (117ms)
+2024-5-9 12:06:09-debug: asset-db:worker-effect-data-processing (2ms)
+2024-5-9 12:06:09-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 12:06:15-debug: start refresh asset from D:\Courses\Cocos\Cocos Projects\Test\assets\Missions\final\final.scene...
+2024-5-9 12:06:15-debug: %cImport%c: D:\Courses\Cocos\Cocos Projects\Test\assets\Missions\final\final.scenebackground: #aaff85; color: #000;color: #000;
+2024-5-9 12:06:15-debug: refresh asset D:\Courses\Cocos\Cocos Projects\Test\assets\Missions\final success

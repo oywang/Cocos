@@ -1,0 +1,14 @@
+{
+    "systemInfo": {
+        "arch": "x64",
+        "cpu": "AMD Ryzen 5 5500U with Radeon Graphics         ",
+        "version": "Windows 10 Home China"
+    },
+    "sceneListMap": {
+        "aa81824a-3062-4d17-a797-f6225b369c3c": "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Scenes\\1.scene",
+        "9d81645b-2562-4769-bd60-63e2a1e184c5": "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Missions\\test02\\2.scene",
+        "ec71f23e-bd42-4cce-a378-e4d06ad6920e": "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Missions\\test03\\3.scene",
+        "96dc00b1-d1a9-4b59-929c-2adfcd0c0b40": "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Missions\\final\\final.scene"
+    },
+    "deviceMd5": "836538590658a3e4b2c0e7c1e8eae511"
+}

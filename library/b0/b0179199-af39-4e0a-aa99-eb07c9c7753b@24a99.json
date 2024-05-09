@@ -1,0 +1,96 @@
+{
+  "__type__": "cc.Mesh",
+  "_name": "",
+  "_objFlags": 0,
+  "__editorExtras__": {},
+  "_native": ".bin",
+  "_struct": {
+    "primitives": [
+      {
+        "primitiveMode": 7,
+        "jointMapIndex": 0,
+        "vertexBundelIndices": [
+          0
+        ],
+        "indexView": {
+          "offset": 6336,
+          "length": 612,
+          "count": 306,
+          "stride": 2
+        }
+      }
+    ],
+    "vertexBundles": [
+      {
+        "view": {
+          "offset": 0,
+          "length": 6336,
+          "count": 72,
+          "stride": 88
+        },
+        "attributes": [
+          {
+            "name": "a_position",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_normal",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_texCoord",
+            "format": 21,
+            "isNormalized": false
+          },
+          {
+            "name": "a_tangent",
+            "format": 44,
+            "isNormalized": false
+          },
+          {
+            "name": "a_joints",
+            "format": 42,
+            "isNormalized": false
+          },
+          {
+            "name": "a_weights",
+            "format": 44,
+            "isNormalized": false
+          },
+          {
+            "name": "a_texCoord1",
+            "format": 21,
+            "isNormalized": false
+          },
+          {
+            "name": "a_texCoord2",
+            "format": 21,
+            "isNormalized": false
+          }
+        ]
+      }
+    ],
+    "minPosition": {
+      "__type__": "cc.Vec3",
+      "x": -0.15205952525138855,
+      "y": 1.5888607501983643,
+      "z": 0.11368990689516068
+    },
+    "maxPosition": {
+      "__type__": "cc.Vec3",
+      "x": 0.15205983817577362,
+      "y": 1.7287214994430542,
+      "z": 0.23874236643314362
+    },
+    "jointMaps": [
+      [
+        0,
+        1
+      ]
+    ]
+  },
+  "_hash": 3323432961,
+  "_allowDataAccess": true
+}

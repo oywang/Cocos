@@ -1,0 +1,173 @@
+{
+  "__type__": "cc.Mesh",
+  "_name": "",
+  "_objFlags": 0,
+  "__editorExtras__": {},
+  "_native": ".bin",
+  "_struct": {
+    "primitives": [
+      {
+        "primitiveMode": 7,
+        "jointMapIndex": 0,
+        "vertexBundelIndices": [
+          0
+        ],
+        "indexView": {
+          "offset": 508456,
+          "length": 46380,
+          "count": 23190,
+          "stride": 2
+        }
+      }
+    ],
+    "vertexBundles": [
+      {
+        "view": {
+          "offset": 0,
+          "length": 508456,
+          "count": 4889,
+          "stride": 104
+        },
+        "attributes": [
+          {
+            "name": "a_position",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_normal",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_texCoord",
+            "format": 21,
+            "isNormalized": false
+          },
+          {
+            "name": "a_tangent",
+            "format": 44,
+            "isNormalized": false
+          },
+          {
+            "name": "a_joints",
+            "format": 42,
+            "isNormalized": false
+          },
+          {
+            "name": "a_weights",
+            "format": 44,
+            "isNormalized": false
+          },
+          {
+            "name": "a_texCoord1",
+            "format": 21,
+            "isNormalized": false
+          },
+          {
+            "name": "a_texCoord2",
+            "format": 21,
+            "isNormalized": false
+          },
+          {
+            "name": "a_texCoord3",
+            "format": 21,
+            "isNormalized": false
+          },
+          {
+            "name": "a_texCoord4",
+            "format": 21,
+            "isNormalized": false
+          }
+        ]
+      }
+    ],
+    "minPosition": {
+      "__type__": "cc.Vec3",
+      "x": -0.8249251842498779,
+      "y": -0.004300487693399191,
+      "z": -0.3250492513179779
+    },
+    "maxPosition": {
+      "__type__": "cc.Vec3",
+      "x": 0.8249257802963257,
+      "y": 1.8567737340927124,
+      "z": 0.2646336555480957
+    },
+    "jointMaps": [
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        18,
+        19,
+        20,
+        22,
+        23,
+        24,
+        26,
+        27,
+        28,
+        30,
+        31,
+        32,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        43,
+        44,
+        45,
+        47,
+        48,
+        49,
+        51,
+        52,
+        53,
+        55,
+        56,
+        57,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        75,
+        76,
+        77,
+        78,
+        79,
+        81
+      ]
+    ]
+  },
+  "_hash": 2745610869,
+  "_allowDataAccess": true
+}

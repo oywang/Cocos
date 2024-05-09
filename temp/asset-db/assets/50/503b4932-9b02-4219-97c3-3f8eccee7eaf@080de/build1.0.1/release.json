@@ -1,0 +1,132 @@
+[
+    1,
+    0,
+    0,
+    [
+        [
+            "cc.Mesh",
+            [
+                "_native",
+                "_hash",
+                "_struct"
+            ],
+            1,
+            11
+        ]
+    ],
+    [
+        [
+            0,
+            0,
+            1,
+            2,
+            3
+        ]
+    ],
+    [
+        [
+            0,
+            ".bin",
+            1492977100,
+            [
+                {
+                    "primitives": [
+                        {
+                            "primitiveMode": 7,
+                            "jointMapIndex": 0,
+                            "vertexBundelIndices": [
+                                0
+                            ],
+                            "indexView": {
+                                "offset": 4312,
+                                "length": 408,
+                                "count": 204,
+                                "stride": 2
+                            }
+                        }
+                    ],
+                    "vertexBundles": [
+                        {
+                            "view": {
+                                "offset": 0,
+                                "length": 4312,
+                                "count": 49,
+                                "stride": 88
+                            },
+                            "attributes": [
+                                {
+                                    "name": "a_position",
+                                    "format": 32,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_normal",
+                                    "format": 32,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_texCoord",
+                                    "format": 21,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_tangent",
+                                    "format": 44,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_joints",
+                                    "format": 42,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_weights",
+                                    "format": 44,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_texCoord1",
+                                    "format": 21,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_texCoord2",
+                                    "format": 21,
+                                    "isNormalized": false
+                                }
+                            ]
+                        }
+                    ],
+                    "jointMaps": [
+                        [
+                            0,
+                            2
+                        ]
+                    ]
+                },
+                "minPosition",
+                8,
+                [
+                    1,
+                    -0.1212298572063446,
+                    1.4041557312011719,
+                    0.156256765127182
+                ],
+                "maxPosition",
+                8,
+                [
+                    1,
+                    0.12122974544763565,
+                    1.529312014579773,
+                    0.24009539186954498
+                ]
+            ]
+        ],
+        -1
+    ],
+    0,
+    0,
+    [],
+    [],
+    []
+]
