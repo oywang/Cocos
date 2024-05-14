@@ -1,0 +1,338 @@
+2024-5-14 10:46:28-log: Cannot access game frame or container.
+2024-5-14 10:46:29-debug: asset-db:require-engine-code (1715ms)
+2024-5-14 10:46:29-debug: [Assets Memory track]: asset-db-plugin-register: programming start:93.31MB, end 96.71MB, increase: 3.40MB
+2024-5-14 10:46:30-debug: [Assets Memory track]: asset-db-plugin-register: engine-extends start:96.76MB, end 100.22MB, increase: 3.46MB
+2024-5-14 10:46:30-debug: [Assets Memory track]: asset-db-plugin-enable: project start:96.93MB, end 100.22MB, increase: 3.29MB
+2024-5-14 10:46:29-log: Cocos Creator v3.8.1
+2024-5-14 10:46:29-debug: [Assets Memory track]: asset-db:worker-init: initEngine start:22.18MB, end 92.73MB, increase: 70.55MB
+2024-5-14 10:46:30-debug: [Assets Memory track]: asset-db:worker-init: initPlugin start:92.74MB, end 100.23MB, increase: 7.49MB
+2024-5-14 10:46:30-debug: asset-db:worker-init: initPlugin (314ms)
+2024-5-14 10:46:30-debug: [Assets Memory track]: asset-db:worker-init start:22.18MB, end 94.96MB, increase: 72.78MB
+2024-5-14 10:46:30-debug: Run asset db hook programming:beforePreStart success!
+2024-5-14 10:46:30-debug: Run asset db hook programming:beforePreStart ...
+2024-5-14 10:46:30-debug: Run asset db hook engine-extends:beforePreStart ...
+2024-5-14 10:46:30-debug: Run asset db hook engine-extends:beforePreStart success!
+2024-5-14 10:46:30-debug: asset-db:worker-init (3475ms)
+2024-5-14 10:46:30-debug: asset-db-hook-programming-beforePreStart (801ms)
+2024-5-14 10:46:30-debug: asset-db-hook-engine-extends-beforePreStart (801ms)
+2024-5-14 10:46:30-debug: Preimport db internal success
+2024-5-14 10:46:30-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Animationsbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:30-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Charactersbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:30-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Missionsbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:30-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\resourcesbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:30-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Imagesbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:30-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Scenesbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:30-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Missions\finalbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:30-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Missions\test01background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:30-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Missions\test02background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:30-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Scriptsbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:30-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Missions\test03background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:30-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Missions\final\final.tsbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:30-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Missions\test02\test02.tsbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:30-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Missions\test03\test03.tsbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:30-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Missions\test01\test01.tsbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:30-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Scripts\HelloWorld.tsbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:30-debug: Preimport db assets success
+2024-5-14 10:46:30-debug: Run asset db hook programming:afterPreStart ...
+2024-5-14 10:46:32-debug: run package(builder) handler(enable) start
+2024-5-14 10:46:39-debug: run package(builder) handler(enable) success!
+2024-5-14 10:46:39-debug: [Assets Memory track]: asset-db-plugin-enable: builder start:117.79MB, end 297.54MB, increase: 179.75MB
+2024-5-14 10:46:39-debug: run package(shortcuts) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(animation-graph) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(about) handler(enable) start
+2024-5-14 10:46:39-debug: run package(about) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(assets) handler(enable) start
+2024-5-14 10:46:39-debug: run package(animation-graph) handler(enable) start
+2024-5-14 10:46:39-debug: run package(shortcuts) handler(enable) start
+2024-5-14 10:46:39-debug: run package(console) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(crash-reporter) handler(enable) start
+2024-5-14 10:46:39-debug: run package(crash-reporter) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(extension) handler(enable) start
+2024-5-14 10:46:39-debug: run package(extension) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(assets) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(console) handler(enable) start
+2024-5-14 10:46:39-debug: run package(hierarchy) handler(enable) start
+2024-5-14 10:46:39-debug: run package(hierarchy) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(inspector) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(light-probe) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(lightmap) handler(enable) start
+2024-5-14 10:46:39-debug: run package(inspector) handler(enable) start
+2024-5-14 10:46:39-debug: run package(light-probe) handler(enable) start
+2024-5-14 10:46:39-debug: run package(lightmap) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(node-library) handler(enable) start
+2024-5-14 10:46:39-debug: run package(package-asset) handler(enable) start
+2024-5-14 10:46:39-debug: run package(package-asset) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(process) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(reference-image) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(reference-image) handler(enable) start
+2024-5-14 10:46:39-debug: run package(reflection-probe) handler(enable) start
+2024-5-14 10:46:39-debug: run package(engine-extends) handler(enable) start
+2024-5-14 10:46:39-debug: run package(node-library) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(engine-extends) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(adsense-h5g-plugin) handler(enable) start
+2024-5-14 10:46:39-debug: run package(alipay-mini-game) handler(enable) start
+2024-5-14 10:46:39-debug: run package(adsense-h5g-plugin) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(reflection-probe) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(android) handler(enable) start
+2024-5-14 10:46:39-debug: run package(process) handler(enable) start
+2024-5-14 10:46:39-debug: run package(android) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(alipay-mini-game) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(bytedance-mini-game) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(bytedance-mini-game) handler(enable) start
+2024-5-14 10:46:39-debug: run package(certificate) handler(enable) start
+2024-5-14 10:46:39-debug: run package(certificate) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(channel-upload-tools) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(fb-instant-games) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(fb-instant-games) handler(enable) start
+2024-5-14 10:46:39-debug: run package(huawei-agc) handler(enable) start
+2024-5-14 10:46:39-debug: run package(channel-upload-tools) handler(enable) start
+2024-5-14 10:46:39-debug: run package(huawei-quick-game) handler(enable) start
+2024-5-14 10:46:39-debug: run package(huawei-agc) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(huawei-quick-game) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(ios) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(linux) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(mac) handler(enable) start
+2024-5-14 10:46:39-debug: run package(mac) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(linux) handler(enable) start
+2024-5-14 10:46:39-debug: run package(native) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(native) handler(enable) start
+2024-5-14 10:46:39-debug: run package(ios) handler(enable) start
+2024-5-14 10:46:39-debug: run package(openharmony) handler(enable) start
+2024-5-14 10:46:39-debug: run package(ohos) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(openharmony) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(oppo-mini-game) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(runtime-dev-tools) handler(enable) start
+2024-5-14 10:46:39-debug: run package(runtime-dev-tools) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(taobao-creative-app) handler(enable) start
+2024-5-14 10:46:39-debug: run package(ohos) handler(enable) start
+2024-5-14 10:46:39-debug: run package(oppo-mini-game) handler(enable) start
+2024-5-14 10:46:39-debug: run package(taobao-mini-game) handler(enable) start
+2024-5-14 10:46:39-debug: run package(vivo-mini-game) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(taobao-mini-game) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(web-desktop) handler(enable) start
+2024-5-14 10:46:39-debug: run package(web-desktop) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(web-mobile) handler(enable) start
+2024-5-14 10:46:39-debug: run package(vivo-mini-game) handler(enable) start
+2024-5-14 10:46:39-debug: run package(web-mobile) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(wechatgame) handler(enable) start
+2024-5-14 10:46:39-debug: run package(wechatprogram) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(wechatgame) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(taobao-creative-app) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(windows) handler(enable) start
+2024-5-14 10:46:39-debug: run package(windows) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(xiaomi-quick-game) handler(enable) start
+2024-5-14 10:46:39-debug: run package(xiaomi-quick-game) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(cocos-service) handler(enable) start
+2024-5-14 10:46:39-debug: run package(wechatprogram) handler(enable) start
+2024-5-14 10:46:39-debug: run package(cocos-service) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(im-plugin) handler(enable) start
+2024-5-14 10:46:39-debug: run package(im-plugin) handler(enable) success!
+2024-5-14 10:46:39-debug: run package(placeholder) handler(enable) start
+2024-5-14 10:46:39-debug: run package(placeholder) handler(enable) success!
+2024-5-14 10:46:40-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-14 10:46:40-debug: Run asset db hook engine-extends:afterPreStart ...
+2024-5-14 10:46:40-debug: Run asset db hook programming:afterPreStart success!
+2024-5-14 10:46:40-debug: Run asset db hook engine-extends:afterPreStart success!
+2024-5-14 10:46:40-debug: Start up the 'internal' database...
+2024-5-14 10:46:40-debug: [Assets Memory track]: asset-db:worker-init: preStart start:94.97MB, end 294.51MB, increase: 199.54MB
+2024-5-14 10:46:40-debug: asset-db-hook-programming-afterPreStart (9525ms)
+2024-5-14 10:46:40-debug: asset-db:worker-effect-data-processing (81ms)
+2024-5-14 10:46:40-debug: asset-db-hook-engine-extends-afterPreStart (81ms)
+2024-5-14 10:46:40-debug: start asset-db(internal) with asset: 463
+2024-5-14 10:46:40-debug: Start up the 'assets' database...
+2024-5-14 10:46:40-debug: [Assets Memory track]: asset-db:worker-startup-database[internal] start:114.06MB, end 298.69MB, increase: 184.63MB
+2024-5-14 10:46:40-debug: asset-db:worker-startup-database[internal] (9869ms)
+2024-5-14 10:46:40-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Animations\move.animbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:40-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Rifle Idle.fbxbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:40-debug: Frame rate: 30 [{asset(13df9823-3aa6-4062-9d55-73ede5aaf45a)}]
+2024-5-14 10:46:40-debug: Local time: [0.000000, 8.566667] [{asset(13df9823-3aa6-4062-9d55-73ede5aaf45a)}]
+2024-5-14 10:46:40-debug: Reference time: [0.000000, 8.566667] [{asset(13df9823-3aa6-4062-9d55-73ede5aaf45a)}]
+2024-5-14 10:46:40-debug: Frame rate: 30 [{asset(13df9823-3aa6-4062-9d55-73ede5aaf45a)}]
+2024-5-14 10:46:40-debug: Take mixamo.com: 8.566666666666666s [{asset(13df9823-3aa6-4062-9d55-73ede5aaf45a)}]
+2024-5-14 10:46:40-debug: The following nodes specified unsupported inherit type [RrSs]: [mixamorig:Hips,mixamorig:Spine,mixamorig:Spine1,mixamorig:Spine2,mixamorig:Neck,mixamorig:Neck1,mixamorig:Head,mixamorig:HeadTop_End,mixamorig:LeftEye,mixamorig:RightEye,mixamorig:Jaw,mixamorig:LeftShoulder,mixamorig:LeftArm,mixamorig:LeftForeArm,mixamorig:LeftHand,mixamorig:LeftHandThumb1,mixamorig:LeftHandThumb2,mixamorig:LeftHandThumb3,mixamorig:LeftHandThumb4,mixamorig:LeftHandIndex1,mixamorig:LeftHandIndex2,mixamorig:LeftHandIndex3,mixamorig:LeftHandIndex4,mixamorig:LeftHandMiddle1,mixamorig:LeftHandMiddle2,mixamorig:LeftHandMiddle3,mixamorig:LeftHandMiddle4,mixamorig:LeftHandRing1,mixamorig:LeftHandRing2,mixamorig:LeftHandRing3,mixamorig:LeftHandRing4,mixamorig:LeftHandPinky1,mixamorig:LeftHandPinky2,mixamorig:LeftHandPinky3,mixamorig:LeftHandPinky4,mixamorig:RightShoulder,mixamorig:RightArm,mixamorig:RightForeArm,mixamorig:RightHand,mixamorig:RightHandPinky1,mixamorig:RightHandPinky2,mixamorig:RightHandPinky3,mixamorig:RightHandPinky4,mixamorig:RightHandRing1,mixamorig:RightHandRing2,mixamorig:RightHandRing3,mixamorig:RightHandRing4,mixamorig:RightHandMiddle1,mixamorig:RightHandMiddle2,mixamorig:RightHandMiddle3,mixamorig:RightHandMiddle4,mixamorig:RightHandIndex1,mixamorig:RightHandIndex2,mixamorig:RightHandIndex3,mixamorig:RightHandIndex4,mixamorig:RightHandThumb1,mixamorig:RightHandThumb2,mixamorig:RightHandThumb3,mixamorig:RightHandThumb4,mixamorig:LeftUpLeg,mixamorig:LeftLeg,mixamorig:LeftFoot,mixamorig:LeftToeBase,mixamorig:LeftToe_End,mixamorig:RightUpLeg,mixamorig:RightLeg,mixamorig:RightFoot,mixamorig:RightToeBase,mixamorig:RightToe_End]. [{asset(13df9823-3aa6-4062-9d55-73ede5aaf45a)}]
+2024-5-14 10:46:40-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Rifle Idle.fbx@18d6fbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:40-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Rifle Idle.fbx@82d07background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:40-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\resources\4.jpgbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:40-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\resources\4.jpg@6c48abackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:40-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Swat.fbxbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:40-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\resources\4.jpg@f9941background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:40-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Open_Door_Outwards.fbxbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:40-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Running.fbxbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:40-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Warrior_Idle.fbxbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:40-debug: Reference time: [0.000000, 3.333333] [{asset(15159de8-1ef8-44b8-921d-b5b9b508730c)}]
+2024-5-14 10:46:40-debug: Local time: [0.000000, 3.333333] [{asset(15159de8-1ef8-44b8-921d-b5b9b508730c)}]
+2024-5-14 10:46:40-debug: Frame rate: 30 [{asset(15159de8-1ef8-44b8-921d-b5b9b508730c)}]
+2024-5-14 10:46:40-debug: Take Take 001: 3.3333333333333335s [{asset(15159de8-1ef8-44b8-921d-b5b9b508730c)}]
+2024-5-14 10:46:40-debug: Frame rate: 30 [{asset(15159de8-1ef8-44b8-921d-b5b9b508730c)}]
+2024-5-14 10:46:40-debug: Local time: [0.000000, 0.033333] [{asset(15159de8-1ef8-44b8-921d-b5b9b508730c)}]
+2024-5-14 10:46:40-debug: Frame rate: 30 [{asset(15159de8-1ef8-44b8-921d-b5b9b508730c)}]
+2024-5-14 10:46:40-debug: Reference time: [0.000000, 1.000000] [{asset(15159de8-1ef8-44b8-921d-b5b9b508730c)}]
+2024-5-14 10:46:40-debug: Take mixamo.com: 0.03333333333333333s [{asset(15159de8-1ef8-44b8-921d-b5b9b508730c)}]
+2024-5-14 10:46:40-debug: The following nodes specified unsupported inherit type [Rrs]: [mixamorig:Spine,mixamorig:Spine1,mixamorig:Spine2,mixamorig:Neck,mixamorig:Neck1,mixamorig:Head,mixamorig:HeadTop_End,mixamorig:LeftEye,mixamorig:RightEye,mixamorig:Jaw,mixamorig:LeftShoulder,mixamorig:LeftArm,mixamorig:LeftForeArm,mixamorig:LeftHand,mixamorig:LeftHandThumb1,mixamorig:LeftHandThumb2,mixamorig:LeftHandThumb3,mixamorig:LeftHandThumb4,mixamorig:LeftHandIndex1,mixamorig:LeftHandIndex2,mixamorig:LeftHandIndex3,mixamorig:LeftHandIndex4,mixamorig:LeftHandMiddle1,mixamorig:LeftHandMiddle2,mixamorig:LeftHandMiddle3,mixamorig:LeftHandMiddle4,mixamorig:LeftHandRing1,mixamorig:LeftHandRing2,mixamorig:LeftHandRing3,mixamorig:LeftHandRing4,mixamorig:LeftHandPinky1,mixamorig:LeftHandPinky2,mixamorig:LeftHandPinky3,mixamorig:LeftHandPinky4,mixamorig:RightShoulder,mixamorig:RightArm,mixamorig:RightForeArm,mixamorig:RightHand,mixamorig:RightHandPinky1,mixamorig:RightHandPinky2,mixamorig:RightHandPinky3,mixamorig:RightHandPinky4,mixamorig:RightHandRing1,mixamorig:RightHandRing2,mixamorig:RightHandRing3,mixamorig:RightHandRing4,mixamorig:RightHandMiddle1,mixamorig:RightHandMiddle2,mixamorig:RightHandMiddle3,mixamorig:RightHandMiddle4,mixamorig:RightHandIndex1,mixamorig:RightHandIndex2,mixamorig:RightHandIndex3,mixamorig:RightHandIndex4,mixamorig:RightHandThumb1,mixamorig:RightHandThumb2,mixamorig:RightHandThumb3,mixamorig:RightHandThumb4,mixamorig:LeftUpLeg,mixamorig:LeftLeg,mixamorig:LeftFoot,mixamorig:LeftToeBase,mixamorig:LeftToe_End,mixamorig:RightUpLeg,mixamorig:RightLeg,mixamorig:RightFoot,mixamorig:RightToeBase,mixamorig:RightToe_End]. [{asset(15159de8-1ef8-44b8-921d-b5b9b508730c)}]
+2024-5-14 10:46:40-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\resources\Sphere.prefabbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:40-debug: Frame rate: 30 [{asset(d6c5104b-b516-4962-8b09-79491ac6aba3)}]
+2024-5-14 10:46:40-debug: Local time: [0.000000, 1.000000] [{asset(d6c5104b-b516-4962-8b09-79491ac6aba3)}]
+2024-5-14 10:46:40-debug: Reference time: [0.000000, 1.000000] [{asset(d6c5104b-b516-4962-8b09-79491ac6aba3)}]
+2024-5-14 10:46:40-debug: Frame rate: 30 [{asset(d6c5104b-b516-4962-8b09-79491ac6aba3)}]
+2024-5-14 10:46:40-debug: Local time: [0.000000, 4.100000] [{asset(d6c5104b-b516-4962-8b09-79491ac6aba3)}]
+2024-5-14 10:46:40-debug: Reference time: [0.000000, 4.100000] [{asset(d6c5104b-b516-4962-8b09-79491ac6aba3)}]
+2024-5-14 10:46:40-debug: Take Take 001: 1s [{asset(d6c5104b-b516-4962-8b09-79491ac6aba3)}]
+2024-5-14 10:46:40-debug: Frame rate: 30 [{asset(d6c5104b-b516-4962-8b09-79491ac6aba3)}]
+2024-5-14 10:46:40-debug: Take mixamo.com: 4.1s [{asset(d6c5104b-b516-4962-8b09-79491ac6aba3)}]
+2024-5-14 10:46:40-debug: The following nodes specified unsupported inherit type [Rrs]: [mixamorig:Spine,mixamorig:Spine1,mixamorig:Spine2,mixamorig:Neck,mixamorig:Head,mixamorig:HeadTop_End,mixamorig:HairB,mixamorig:HairA,mixamorig:Hat,mixamorig:LeftShoulder,mixamorig:LeftArm,mixamorig:LeftForeArm,mixamorig:LeftHand,mixamorig:LeftHandThumb1,mixamorig:LeftHandThumb2,mixamorig:LeftHandThumb3,mixamorig:LeftHandThumb4,mixamorig:LeftHandIndex1,mixamorig:LeftHandIndex2,mixamorig:LeftHandIndex3,mixamorig:LeftHandIndex4,mixamorig:LeftHandMiddle1,mixamorig:LeftHandMiddle2,mixamorig:LeftHandMiddle3,mixamorig:LeftHandMiddle4,mixamorig:LeftHandRing1,mixamorig:LeftHandRing2,mixamorig:LeftHandRing3,mixamorig:LeftHandRing4,mixamorig:LeftHandPinky1,mixamorig:LeftHandPinky2,mixamorig:LeftHandPinky3,mixamorig:LeftHandPinky4,mixamorig:LSleeve,mixamorig:RightShoulder,mixamorig:RightArm,mixamorig:RightForeArm,mixamorig:RightHand,mixamorig:RightHandThumb1,mixamorig:RightHandThumb2,mixamorig:RightHandThumb3,mixamorig:RightHandThumb4,mixamorig:RightHandIndex1,mixamorig:RightHandIndex2,mixamorig:RightHandIndex3,mixamorig:RightHandIndex4,mixamorig:RightHandMiddle1,mixamorig:RightHandMiddle2,mixamorig:RightHandMiddle3,mixamorig:RightHandMiddle4,mixamorig:RightHandRing1,mixamorig:RightHandRing2,mixamorig:RightHandRing3,mixamorig:RightHandRing4,mixamorig:RightHandPinky1,mixamorig:RightHandPinky2,mixamorig:RightHandPinky3,mixamorig:RightHandPinky4,mixamorig:RSleeve,mixamorig:Hood,mixamorig:Hood1,mixamorig:RHoodieString,mixamorig:RHoodieString1,mixamorig:RHoodieString2,mixamorig:LHoodieString,mixamorig:LHoodieString1,mixamorig:LHoodieString2,mixamorig:Backpack,mixamorig:RBackpack_Strap,mixamorig:LBackpack_Strap,mixamorig:RightUpLeg,mixamorig:RightLeg,mixamorig:RightFoot,mixamorig:RightToeBase,mixamorig:RightToe_End,mixamorig:RFootTongue,mixamorig:LeftUpLeg,mixamorig:LeftLeg,mixamorig:LeftFoot,mixamorig:LeftToeBase,mixamorig:LeftToe_End,mixamorig:LFootTongue]. [{asset(d6c5104b-b516-4962-8b09-79491ac6aba3)}]
+2024-5-14 10:46:40-debug: Frame rate: 30 [{asset(b0179199-af39-4e0a-aa99-eb07c9c7753b)}]
+2024-5-14 10:46:40-debug: Local time: [0.000000, 1.000000] [{asset(b0179199-af39-4e0a-aa99-eb07c9c7753b)}]
+2024-5-14 10:46:40-debug: Reference time: [0.000000, 1.000000] [{asset(b0179199-af39-4e0a-aa99-eb07c9c7753b)}]
+2024-5-14 10:46:40-debug: Frame rate: 30 [{asset(b0179199-af39-4e0a-aa99-eb07c9c7753b)}]
+2024-5-14 10:46:40-debug: Take Take 001: 1s [{asset(b0179199-af39-4e0a-aa99-eb07c9c7753b)}]
+2024-5-14 10:46:40-debug: Local time: [0.000000, 0.700000] [{asset(b0179199-af39-4e0a-aa99-eb07c9c7753b)}]
+2024-5-14 10:46:40-debug: Reference time: [0.000000, 1.000000] [{asset(b0179199-af39-4e0a-aa99-eb07c9c7753b)}]
+2024-5-14 10:46:40-debug: Frame rate: 30 [{asset(b0179199-af39-4e0a-aa99-eb07c9c7753b)}]
+2024-5-14 10:46:40-debug: Take mixamo.com: 0.7s [{asset(b0179199-af39-4e0a-aa99-eb07c9c7753b)}]
+2024-5-14 10:46:40-debug: The following nodes specified unsupported inherit type [Rrs]: [mixamorig:Spine,mixamorig:Spine1,mixamorig:Spine2,mixamorig:Neck,mixamorig:Head,mixamorig:HeadTop_End,mixamorig:HairB,mixamorig:HairA,mixamorig:Hat,mixamorig:LeftShoulder,mixamorig:LeftArm,mixamorig:LeftForeArm,mixamorig:LeftHand,mixamorig:LeftHandThumb1,mixamorig:LeftHandThumb2,mixamorig:LeftHandThumb3,mixamorig:LeftHandThumb4,mixamorig:LeftHandIndex1,mixamorig:LeftHandIndex2,mixamorig:LeftHandIndex3,mixamorig:LeftHandIndex4,mixamorig:LeftHandMiddle1,mixamorig:LeftHandMiddle2,mixamorig:LeftHandMiddle3,mixamorig:LeftHandMiddle4,mixamorig:LeftHandRing1,mixamorig:LeftHandRing2,mixamorig:LeftHandRing3,mixamorig:LeftHandRing4,mixamorig:LeftHandPinky1,mixamorig:LeftHandPinky2,mixamorig:LeftHandPinky3,mixamorig:LeftHandPinky4,mixamorig:LSleeve,mixamorig:RightShoulder,mixamorig:RightArm,mixamorig:RightForeArm,mixamorig:RightHand,mixamorig:RightHandThumb1,mixamorig:RightHandThumb2,mixamorig:RightHandThumb3,mixamorig:RightHandThumb4,mixamorig:RightHandIndex1,mixamorig:RightHandIndex2,mixamorig:RightHandIndex3,mixamorig:RightHandIndex4,mixamorig:RightHandMiddle1,mixamorig:RightHandMiddle2,mixamorig:RightHandMiddle3,mixamorig:RightHandMiddle4,mixamorig:RightHandRing1,mixamorig:RightHandRing2,mixamorig:RightHandRing3,mixamorig:RightHandRing4,mixamorig:RightHandPinky1,mixamorig:RightHandPinky2,mixamorig:RightHandPinky3,mixamorig:RightHandPinky4,mixamorig:RSleeve,mixamorig:Hood,mixamorig:Hood1,mixamorig:RHoodieString,mixamorig:RHoodieString1,mixamorig:RHoodieString2,mixamorig:LHoodieString,mixamorig:LHoodieString1,mixamorig:LHoodieString2,mixamorig:Backpack,mixamorig:RBackpack_Strap,mixamorig:LBackpack_Strap,mixamorig:RightUpLeg,mixamorig:RightLeg,mixamorig:RightFoot,mixamorig:RightToeBase,mixamorig:RightToe_End,mixamorig:RFootTongue,mixamorig:LeftUpLeg,mixamorig:LeftLeg,mixamorig:LeftFoot,mixamorig:LeftToeBase,mixamorig:LeftToe_End,mixamorig:LFootTongue]. [{asset(b0179199-af39-4e0a-aa99-eb07c9c7753b)}]
+2024-5-14 10:46:41-debug: Local time: [0.000000, 1.000000] [{asset(503b4932-9b02-4219-97c3-3f8eccee7eaf)}]
+2024-5-14 10:46:41-debug: Reference time: [0.000000, 1.000000] [{asset(503b4932-9b02-4219-97c3-3f8eccee7eaf)}]
+2024-5-14 10:46:41-debug: Frame rate: 30 [{asset(503b4932-9b02-4219-97c3-3f8eccee7eaf)}]
+2024-5-14 10:46:41-debug: Frame rate: 30 [{asset(503b4932-9b02-4219-97c3-3f8eccee7eaf)}]
+2024-5-14 10:46:41-debug: Local time: [0.000000, 11.466667] [{asset(503b4932-9b02-4219-97c3-3f8eccee7eaf)}]
+2024-5-14 10:46:41-debug: Take Take 001: 1s [{asset(503b4932-9b02-4219-97c3-3f8eccee7eaf)}]
+2024-5-14 10:46:41-debug: Reference time: [0.000000, 11.466667] [{asset(503b4932-9b02-4219-97c3-3f8eccee7eaf)}]
+2024-5-14 10:46:41-debug: Frame rate: 30 [{asset(503b4932-9b02-4219-97c3-3f8eccee7eaf)}]
+2024-5-14 10:46:41-debug: Take mixamo.com: 11.466666666666667s [{asset(503b4932-9b02-4219-97c3-3f8eccee7eaf)}]
+2024-5-14 10:46:41-debug: The following nodes specified unsupported inherit type [Rrs]: [mixamorig:Spine,mixamorig:Spine1,mixamorig:Spine2,mixamorig:Neck,mixamorig:Head,mixamorig:HeadTop_End,mixamorig:HairB,mixamorig:HairA,mixamorig:Hat,mixamorig:LeftShoulder,mixamorig:LeftArm,mixamorig:LeftForeArm,mixamorig:LeftHand,mixamorig:LeftHandThumb1,mixamorig:LeftHandThumb2,mixamorig:LeftHandThumb3,mixamorig:LeftHandThumb4,mixamorig:LeftHandIndex1,mixamorig:LeftHandIndex2,mixamorig:LeftHandIndex3,mixamorig:LeftHandIndex4,mixamorig:LeftHandMiddle1,mixamorig:LeftHandMiddle2,mixamorig:LeftHandMiddle3,mixamorig:LeftHandMiddle4,mixamorig:LeftHandRing1,mixamorig:LeftHandRing2,mixamorig:LeftHandRing3,mixamorig:LeftHandRing4,mixamorig:LeftHandPinky1,mixamorig:LeftHandPinky2,mixamorig:LeftHandPinky3,mixamorig:LeftHandPinky4,mixamorig:LSleeve,mixamorig:RightShoulder,mixamorig:RightArm,mixamorig:RightForeArm,mixamorig:RightHand,mixamorig:RightHandThumb1,mixamorig:RightHandThumb2,mixamorig:RightHandThumb3,mixamorig:RightHandThumb4,mixamorig:RightHandIndex1,mixamorig:RightHandIndex2,mixamorig:RightHandIndex3,mixamorig:RightHandIndex4,mixamorig:RightHandMiddle1,mixamorig:RightHandMiddle2,mixamorig:RightHandMiddle3,mixamorig:RightHandMiddle4,mixamorig:RightHandRing1,mixamorig:RightHandRing2,mixamorig:RightHandRing3,mixamorig:RightHandRing4,mixamorig:RightHandPinky1,mixamorig:RightHandPinky2,mixamorig:RightHandPinky3,mixamorig:RightHandPinky4,mixamorig:RSleeve,mixamorig:Hood,mixamorig:Hood1,mixamorig:RHoodieString,mixamorig:RHoodieString1,mixamorig:RHoodieString2,mixamorig:LHoodieString,mixamorig:LHoodieString1,mixamorig:LHoodieString2,mixamorig:Backpack,mixamorig:RBackpack_Strap,mixamorig:LBackpack_Strap,mixamorig:RightUpLeg,mixamorig:RightLeg,mixamorig:RightFoot,mixamorig:RightToeBase,mixamorig:RightToe_End,mixamorig:RFootTongue,mixamorig:LeftUpLeg,mixamorig:LeftLeg,mixamorig:LeftFoot,mixamorig:LeftToeBase,mixamorig:LeftToe_End,mixamorig:LFootTongue]. [{asset(503b4932-9b02-4219-97c3-3f8eccee7eaf)}]
+2024-5-14 10:46:41-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\resources\Sprite.prefabbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:41-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Swat.fbx@30732background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:41-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Swat.fbx@de49fbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:41-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Open_Door_Outwards.fbx@30732background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:41-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Scenes\SampleScene.scenebackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:41-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Running.fbx@30732background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:42-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Open_Door_Outwards.fbx@60514background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:42-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Running.fbx@60514background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:42-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Swat.fbx@e455bbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:42-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Warrior_Idle.fbx@30732background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:42-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Open_Door_Outwards.fbx@da566background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:42-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Running.fbx@da566background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:42-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Scenes\Test.scenebackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:42-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Warrior_Idle.fbx@60514background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:42-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Swat.fbx@18d6fbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:42-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Warrior_Idle.fbx@da566background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:42-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Open_Door_Outwards.fbx@080debackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:42-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Running.fbx@080debackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:42-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Missions\final\final.scenebackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:42-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Swat.fbx@f1394background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:42-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Warrior_Idle.fbx@080debackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:42-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Open_Door_Outwards.fbx@ba5bdbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:42-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Running.fbx@ba5bdbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:42-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Swat.fbx@616b6background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:42-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Warrior_Idle.fbx@ba5bdbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:42-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Missions\test01\1.scenebackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:42-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Open_Door_Outwards.fbx@24a99background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:42-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Running.fbx@24a99background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:42-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Warrior_Idle.fbx@24a99background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:42-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Open_Door_Outwards.fbx@bbfa6background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:42-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Running.fbx@b84cfbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:42-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Missions\test02\2.scenebackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:42-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Swat.fbx@285abbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:42-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Warrior_Idle.fbx@12c0dbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:42-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Running.fbx@f1394background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:42-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Open_Door_Outwards.fbx@f1394background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:42-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Running.fbx@75ee4background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:42-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Open_Door_Outwards.fbx@75ee4background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:42-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Open_Door_Outwards.fbx@a72abbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:42-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Running.fbx@a72abbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:42-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Swat.fbx@40efbbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:42-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Missions\test03\1.jpgbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:43-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Warrior_Idle.fbx@f1394background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:43-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Running.fbx@b838cbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:43-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Open_Door_Outwards.fbx@b838cbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:43-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Warrior_Idle.fbx@75ee4background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:43-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Warrior_Idle.fbx@a72abbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:43-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Missions\test03\1.jpg@6c48abackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:43-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Swat.fbx@612f0background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:43-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Warrior_Idle.fbx@b838cbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:43-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Missions\test03\1.jpg@f9941background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:43-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Running.fbx@8245fbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:43-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Open_Door_Outwards.fbx@8245fbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:43-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Swat.fbx@adacbbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:43-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Warrior_Idle.fbx@8245fbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:43-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Missions\test03\3.scenebackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:43-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Running.fbx@8c192background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:43-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Swat.fbx@39d6ebackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:43-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Open_Door_Outwards.fbx@8c192background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:43-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Warrior_Idle.fbx@8c192background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:43-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Running.fbx@57e6cbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:43-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Open_Door_Outwards.fbx@57e6cbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:43-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Warrior_Idle.fbx@57e6cbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:43-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Swat.fbx@ac38dbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:43-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Swat.fbx@5b2e9background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:43-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Swat.fbx@7b748background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:43-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Swat.fbx@91dcfbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:43-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Swat.fbx@e873abackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:43-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Swat.fbx@583b7background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:43-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Swat.fbx@7dedfbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:43-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Swat.fbx@c1742background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:43-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Swat.fbx@9545ebackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:43-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Swat.fbx@bc4c3background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:44-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Running.fbx@8b3e0background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:44-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Open_Door_Outwards.fbx@8b3e0background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:45-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Warrior_Idle.fbx@8b3e0background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:46-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Open_Door_Outwards.fbx@1d288background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:46-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Running.fbx@1d288background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:46-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Warrior_Idle.fbx@1d288background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:48-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Open_Door_Outwards.fbx@d5851background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:48-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Running.fbx@d5851background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:48-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Open_Door_Outwards.fbx@05fc7background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:48-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Running.fbx@05fc7background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:48-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Open_Door_Outwards.fbx@8cbf6background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:48-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Running.fbx@8cbf6background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:48-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Open_Door_Outwards.fbx@eb06cbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:48-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Running.fbx@eb06cbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:48-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Open_Door_Outwards.fbx@a49d4background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:48-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Running.fbx@a49d4background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:48-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Open_Door_Outwards.fbx@941edbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:48-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Running.fbx@941edbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:48-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Open_Door_Outwards.fbx@df95cbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:48-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Running.fbx@df95cbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:48-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Open_Door_Outwards.fbx@bb2f1background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:48-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Running.fbx@bb2f1background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:48-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Open_Door_Outwards.fbx@27d8dbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:48-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Running.fbx@27d8dbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:48-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Open_Door_Outwards.fbx@f88f1background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:48-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Running.fbx@20c97background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:48-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Warrior_Idle.fbx@d5851background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:48-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Warrior_Idle.fbx@05fc7background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:48-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Warrior_Idle.fbx@8cbf6background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:48-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Warrior_Idle.fbx@eb06cbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:48-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Warrior_Idle.fbx@a49d4background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:48-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Warrior_Idle.fbx@941edbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:48-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Warrior_Idle.fbx@df95cbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:48-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Warrior_Idle.fbx@bb2f1background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:48-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Warrior_Idle.fbx@27d8dbackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:48-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Characters\Aj@Warrior_Idle.fbx@ce387background: #aaff85; color: #000;color: #000;
+2024-5-14 10:46:48-debug: start asset-db(assets) with asset: 32
+2024-5-14 10:46:48-debug: [Assets Memory track]: asset-db:worker-startup-database[assets] start:116.87MB, end 260.64MB, increase: 143.77MB
+2024-5-14 10:46:48-debug: asset-db:worker-startup-database[assets] (17293ms)
+2024-5-14 10:46:48-debug: asset-db:start-database (18146ms)
+2024-5-14 10:46:48-debug: asset-db:ready (24915ms)
+2024-5-14 10:46:48-debug: init worker message success
+2024-5-14 10:46:49-debug: [Build Memory track]: builder:worker-init start:261.34MB, end 274.75MB, increase: 13.41MB
+2024-5-14 10:46:49-debug: programming:execute-script (826ms)
+2024-5-14 10:46:49-debug: builder:worker-init (811ms)
+2024-5-14 10:46:50-debug: programming:execute-script (5ms)
+2024-5-14 10:46:59-debug: refresh db internal success
+2024-5-14 10:46:59-debug: refresh db assets success
+2024-5-14 10:46:59-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-14 10:46:59-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-14 10:46:59-debug: asset-db:refresh-all-database (125ms)
+2024-5-14 10:46:59-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-14 10:46:59-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-14 10:47:03-debug: refresh db internal success
+2024-5-14 10:47:03-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-14 10:47:03-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-14 10:47:03-debug: refresh db assets success
+2024-5-14 10:47:03-debug: asset-db:refresh-all-database (118ms)
+2024-5-14 10:47:03-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-14 10:47:03-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-14 10:47:12-debug: start refresh asset from C:\Users\wyh\Desktop\Cocos\assets\Missions\final\final.scene...
+2024-5-14 10:47:12-debug: %cImport%c: C:\Users\wyh\Desktop\Cocos\assets\Missions\final\final.scenebackground: #aaff85; color: #000;color: #000;
+2024-5-14 10:47:12-debug: refresh asset C:\Users\wyh\Desktop\Cocos\assets\Missions\final success

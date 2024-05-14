@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 18786.507299900055,
+      "mTimestamp": 17621.50009998679,
       "chunkId": "93ba276ea7b26ffcdc433fab14afc1ed6f05647b",
       "imports": [
         {
@@ -598,11 +598,11 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 4635208.713600159,
+      "mTimestamp": 19025.240799993277,
       "chunkId": "6d8fd2b0177941b032ddc0733af48a561fb60657",
       "imports": [
         {
-          "value": "file:///D:/Courses/Cocos/Cocos%20Creators/3.8.1/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts",
+          "value": "file:///C:/Users/wyh/Desktop/Cocos/assets/Missions/final/final.ts",
           "resolved": "__unresolved_0",
           "loc": {
             "start": {
@@ -611,12 +611,12 @@
             },
             "end": {
               "line": 4,
-              "column": 136
+              "column": 74
             }
           }
         },
         {
-          "value": "file:///D:/Courses/Cocos/Cocos%20Projects/Test/assets/Missions/final/final.ts",
+          "value": "file:///C:/Users/wyh/Desktop/Cocos/assets/Missions/test01/test01.ts",
           "resolved": "__unresolved_1",
           "loc": {
             "start": {
@@ -625,12 +625,12 @@
             },
             "end": {
               "line": 5,
-              "column": 86
+              "column": 76
             }
           }
         },
         {
-          "value": "file:///D:/Courses/Cocos/Cocos%20Projects/Test/assets/Missions/test01/test01.ts",
+          "value": "file:///C:/Users/wyh/Desktop/Cocos/assets/Missions/test02/test02.ts",
           "resolved": "__unresolved_2",
           "loc": {
             "start": {
@@ -639,12 +639,12 @@
             },
             "end": {
               "line": 6,
-              "column": 88
+              "column": 76
             }
           }
         },
         {
-          "value": "file:///D:/Courses/Cocos/Cocos%20Projects/Test/assets/Missions/test02/test02.ts",
+          "value": "file:///C:/Users/wyh/Desktop/Cocos/assets/Missions/test03/test03.ts",
           "resolved": "__unresolved_3",
           "loc": {
             "start": {
@@ -653,12 +653,12 @@
             },
             "end": {
               "line": 7,
-              "column": 88
+              "column": 76
             }
           }
         },
         {
-          "value": "file:///D:/Courses/Cocos/Cocos%20Projects/Test/assets/Missions/test03/test03.ts",
+          "value": "file:///C:/Users/wyh/Desktop/Cocos/assets/Scripts/HelloWorld.ts",
           "resolved": "__unresolved_4",
           "loc": {
             "start": {
@@ -667,12 +667,12 @@
             },
             "end": {
               "line": 8,
-              "column": 88
+              "column": 72
             }
           }
         },
         {
-          "value": "file:///D:/Courses/Cocos/Cocos%20Projects/Test/assets/Scripts/HelloWorld.ts",
+          "value": "file:///D:/Courses/Cocos/Cocos%20Creators/3.8.1/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts",
           "resolved": "__unresolved_5",
           "loc": {
             "start": {
@@ -681,7 +681,7 @@
             },
             "end": {
               "line": 9,
-              "column": 84
+              "column": 136
             }
           }
         }
@@ -691,42 +691,42 @@
         {
           "resolved": {
             "type": "module",
+            "url": "file:///C:/Users/wyh/Desktop/Cocos/assets/Missions/final/final.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///C:/Users/wyh/Desktop/Cocos/assets/Missions/test01/test01.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///C:/Users/wyh/Desktop/Cocos/assets/Missions/test02/test02.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///C:/Users/wyh/Desktop/Cocos/assets/Missions/test03/test03.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///C:/Users/wyh/Desktop/Cocos/assets/Scripts/HelloWorld.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
             "url": "file:///D:/Courses/Cocos/Cocos%20Creators/3.8.1/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///D:/Courses/Cocos/Cocos%20Projects/Test/assets/Missions/final/final.ts"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///D:/Courses/Cocos/Cocos%20Projects/Test/assets/Missions/test01/test01.ts"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///D:/Courses/Cocos/Cocos%20Projects/Test/assets/Missions/test02/test02.ts"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///D:/Courses/Cocos/Cocos%20Projects/Test/assets/Missions/test03/test03.ts"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///D:/Courses/Cocos/Cocos%20Projects/Test/assets/Scripts/HelloWorld.ts"
           },
           "messages": []
         }
@@ -1171,6 +1171,266 @@
             "end": {
               "line": 1,
               "column": 116
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///C:/Users/wyh/Desktop/Cocos/assets/Missions/final/final.ts": {
+      "mTimestamp": {
+        "mtime": 1715222594497.6816,
+        "uuid": "b3dd1073-f06e-4138-8c77-1072b6c41e4f"
+      },
+      "chunkId": "c335f210683869ac7c87aaa2616b3e85e2acd174",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 112
+            },
+            "end": {
+              "line": 1,
+              "column": 116
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///C:/Users/wyh/Desktop/Cocos/assets/Missions/test01/test01.ts": {
+      "mTimestamp": {
+        "mtime": 1714723606456.9165,
+        "uuid": "5dd9c585-1be1-4189-bda9-8df875f2165e"
+      },
+      "chunkId": "a5f58d62c6d4802b6d6b36620b486f6e3d662c4e",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 78
+            },
+            "end": {
+              "line": 1,
+              "column": 82
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///C:/Users/wyh/Desktop/Cocos/assets/Missions/test02/test02.ts": {
+      "mTimestamp": {
+        "mtime": 1714733909763.3098,
+        "uuid": "ce2bb6d9-48d1-4af7-b94e-2c718d581522"
+      },
+      "chunkId": "5a0be41a50a1fe74e2d3727248d3ce8c95ddc6f3",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 96
+            },
+            "end": {
+              "line": 1,
+              "column": 100
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///C:/Users/wyh/Desktop/Cocos/assets/Missions/test03/test03.ts": {
+      "mTimestamp": {
+        "mtime": 1714812828115.3691,
+        "uuid": "e6ac7983-3611-4235-8643-13e7499a2aa0"
+      },
+      "chunkId": "3dac9d032ee39d6616fb5a48cd017abbbe890b59",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 73
+            },
+            "end": {
+              "line": 1,
+              "column": 77
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///C:/Users/wyh/Desktop/Cocos/assets/Scripts/HelloWorld.ts": {
+      "mTimestamp": {
+        "mtime": 1714101893663.7253,
+        "uuid": "91a0121a-b18c-492a-bb44-c1557fd20a5e"
+      },
+      "chunkId": "5ae92d1913632511110a1e88a10d6bd88b3cb07b",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 58
+            },
+            "end": {
+              "line": 1,
+              "column": 62
             }
           }
         }
